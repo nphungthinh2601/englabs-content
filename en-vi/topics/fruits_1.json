@@ -1,0 +1,397 @@
+{
+  "id": "fruits_1",
+  "ti": "Fruits",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "apple",
+      "m": [
+        {
+          "mn": "quả táo",
+          "e": {
+            "r": "I eat an apple every morning.",
+            "t": "Tôi ăn một quả táo mỗi buổi sáng.",
+            "rd": [
+              { "l1": "an apple", "l2": "một quả táo", "t": "n" },
+              { "l1": "every morning", "l2": "mỗi buổi sáng", "t": "n" },
+              { "l1": "I", "l2": "Tôi", "t": "n" },
+              { "l1": "eat", "l2": "ăn", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "banana",
+      "m": [
+        {
+          "mn": "quả chuối",
+          "e": {
+            "r": "He eats a banana after lunch.",
+            "t": "Anh ấy ăn một quả chuối sau bữa trưa.",
+            "rd": [
+              { "l1": "a banana", "l2": "một quả chuối", "t": "n" },
+              { "l1": "after lunch", "l2": "sau bữa trưa", "t": "n" },
+              { "l1": "eats", "l2": "ăn", "t": "v" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "orange",
+      "m": [
+        {
+          "mn": "quả cam",
+          "e": {
+            "r": "She drinks orange juice every morning.",
+            "t": "Cô ấy uống nước cam mỗi sáng.",
+            "rd": [
+              { "l1": "orange juice", "l2": "nước cam", "t": "n" },
+              { "l1": "drinks", "l2": "uống", "t": "v" },
+              { "l1": "every morning", "l2": "mỗi sáng", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "grape",
+      "m": [
+        {
+          "mn": "quả nho",
+          "e": {
+            "r": "They harvest grapes in autumn.",
+            "t": "Họ thu hoạch nho vào mùa thu.",
+            "rd": [
+              { "l1": "grapes", "l2": "nho", "t": "n" },
+              { "l1": "harvest", "l2": "thu hoạch", "t": "v" },
+              { "l1": "in autumn", "l2": "vào mùa thu", "t": "n" },
+              { "l1": "They", "l2": "Họ", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "mango",
+      "m": [
+        {
+          "mn": "quả xoài",
+          "e": {
+            "r": "I love eating ripe mangoes.",
+            "t": "Tôi thích ăn xoài chín.",
+            "rd": [
+              { "l1": "ripe mangoes", "l2": "xoài chín", "t": "n" },
+              { "l1": "love", "l2": "thích", "t": "v" },
+              { "l1": "eating", "l2": "ăn", "t": "v" },
+              { "l1": "I", "l2": "Tôi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "watermelon",
+      "m": [
+        {
+          "mn": "quả dưa hấu",
+          "e": {
+            "r": "We bought a big watermelon for the picnic.",
+            "t": "Chúng tôi đã mua một quả dưa hấu lớn cho buổi dã ngoại.",
+            "rd": [
+              {
+                "l1": "a big watermelon",
+                "l2": "một quả dưa hấu lớn",
+                "t": "n"
+              },
+              { "l1": "bought", "l2": "đã mua", "t": "v" },
+              { "l1": "for the picnic", "l2": "cho buổi dã ngoại", "t": "n" },
+              { "l1": "We", "l2": "Chúng tôi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pineapple",
+      "m": [
+        {
+          "mn": "quả dứa",
+          "e": {
+            "r": "Pineapple is sweet and juicy.",
+            "t": "Dứa thì ngọt và mọng nước.",
+            "rd": [
+              { "l1": "Pineapple", "l2": "Dứa", "t": "n" },
+              { "l1": "sweet", "l2": "ngọt", "t": "adj" },
+              { "l1": "juicy", "l2": "mọng nước", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "strawberry",
+      "m": [
+        {
+          "mn": "quả dâu tây",
+          "e": {
+            "r": "Children like strawberry ice cream.",
+            "t": "Trẻ em thích kem dâu tây.",
+            "rd": [
+              { "l1": "strawberry ice cream", "l2": "kem dâu tây", "t": "n" },
+              { "l1": "like", "l2": "thích", "t": "v" },
+              { "l1": "Children", "l2": "Trẻ em", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "peach",
+      "m": [
+        {
+          "mn": "quả đào",
+          "e": {
+            "r": "Peaches are soft and sweet.",
+            "t": "Đào thì mềm và ngọt.",
+            "rd": [
+              { "l1": "Peaches", "l2": "Đào", "t": "n" },
+              { "l1": "soft", "l2": "mềm", "t": "adj" },
+              { "l1": "sweet", "l2": "ngọt", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "kiwi",
+      "m": [
+        {
+          "mn": "quả kiwi",
+          "e": {
+            "r": "Kiwi contains lots of vitamins.",
+            "t": "Kiwi chứa nhiều vitamin.",
+            "rd": [
+              { "l1": "Kiwi", "l2": "Kiwi", "t": "n" },
+              { "l1": "contains", "l2": "chứa", "t": "v" },
+              { "l1": "lots of vitamins", "l2": "nhiều vitamin", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lemon",
+      "m": [
+        {
+          "mn": "quả chanh",
+          "e": {
+            "r": "Lemon juice is sour.",
+            "t": "Nước chanh thì chua.",
+            "rd": [
+              { "l1": "Lemon juice", "l2": "Nước chanh", "t": "n" },
+              { "l1": "sour", "l2": "chua", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cherry",
+      "m": [
+        {
+          "mn": "quả anh đào",
+          "e": {
+            "r": "She bought fresh cherries from the market.",
+            "t": "Cô ấy đã mua anh đào tươi từ chợ.",
+            "rd": [
+              { "l1": "fresh cherries", "l2": "anh đào tươi", "t": "n" },
+              { "l1": "bought", "l2": "đã mua", "t": "v" },
+              { "l1": "from the market", "l2": "từ chợ", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "blueberry",
+      "m": [
+        {
+          "mn": "quả việt quất",
+          "e": {
+            "r": "Blueberries are good for your health.",
+            "t": "Việt quất tốt cho sức khỏe của bạn.",
+            "rd": [
+              { "l1": "Blueberries", "l2": "Việt quất", "t": "n" },
+              {
+                "l1": "good for your health",
+                "l2": "tốt cho sức khỏe của bạn",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "avocado",
+      "m": [
+        {
+          "mn": "quả bơ",
+          "e": {
+            "r": "Avocado is rich in healthy fats.",
+            "t": "Bơ giàu chất béo tốt.",
+            "rd": [
+              { "l1": "Avocado", "l2": "Bơ", "t": "n" },
+              {
+                "l1": "rich in healthy fats",
+                "l2": "giàu chất béo tốt",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "papaya",
+      "m": [
+        {
+          "mn": "quả đu đủ",
+          "e": {
+            "r": "We had papaya for dessert.",
+            "t": "Chúng tôi đã ăn đu đủ cho món tráng miệng.",
+            "rd": [
+              { "l1": "papaya", "l2": "đu đủ", "t": "n" },
+              { "l1": "for dessert", "l2": "cho món tráng miệng", "t": "n" },
+              { "l1": "We", "l2": "Chúng tôi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pomegranate",
+      "m": [
+        {
+          "mn": "quả lựu",
+          "e": {
+            "r": "Pomegranate juice is delicious.",
+            "t": "Nước ép lựu rất ngon.",
+            "rd": [
+              { "l1": "Pomegranate juice", "l2": "Nước ép lựu", "t": "n" },
+              { "l1": "delicious", "l2": "rất ngon", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "dragon fruit",
+      "m": [
+        {
+          "mn": "quả thanh long",
+          "e": {
+            "r": "Dragon fruit has a unique taste.",
+            "t": "Thanh long có hương vị độc đáo.",
+            "rd": [
+              { "l1": "Dragon fruit", "l2": "Thanh long", "t": "n" },
+              {
+                "l1": "has a unique taste",
+                "l2": "có hương vị độc đáo",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "jackfruit",
+      "m": [
+        {
+          "mn": "quả mít",
+          "e": {
+            "r": "Jackfruit can be very large.",
+            "t": "Mít có thể rất to.",
+            "rd": [
+              { "l1": "Jackfruit", "l2": "Mít", "t": "n" },
+              { "l1": "can be very large", "l2": "có thể rất to", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "coconut",
+      "m": [
+        {
+          "mn": "quả dừa",
+          "e": {
+            "r": "We drank coconut water on the beach.",
+            "t": "Chúng tôi uống nước dừa trên bãi biển.",
+            "rd": [
+              { "l1": "coconut water", "l2": "nước dừa", "t": "n" },
+              { "l1": "on the beach", "l2": "trên bãi biển", "t": "n" },
+              { "l1": "drank", "l2": "uống", "t": "v" },
+              { "l1": "We", "l2": "Chúng tôi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "guava",
+      "m": [
+        {
+          "mn": "quả ổi",
+          "e": {
+            "r": "Guava is high in fiber.",
+            "t": "Ổi giàu chất xơ.",
+            "rd": [
+              { "l1": "Guava", "l2": "Ổi", "t": "n" },
+              { "l1": "high in fiber", "l2": "giàu chất xơ", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lychee",
+      "m": [
+        {
+          "mn": "quả vải",
+          "e": {
+            "r": "Lychee is sweet and fragrant.",
+            "t": "Vải ngọt và thơm.",
+            "rd": [
+              { "l1": "Lychee", "l2": "Vải", "t": "n" },
+              { "l1": "sweet and fragrant", "l2": "ngọt và thơm", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "durian",
+      "m": [
+        {
+          "mn": "quả sầu riêng",
+          "e": {
+            "r": "Durian has a strong smell.",
+            "t": "Sầu riêng có mùi rất mạnh.",
+            "rd": [
+              { "l1": "Durian", "l2": "Sầu riêng", "t": "n" },
+              { "l1": "has a strong smell", "l2": "có mùi rất mạnh", "t": "v" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

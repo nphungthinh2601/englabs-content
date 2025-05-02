@@ -1,0 +1,2258 @@
+{
+  "id": "food_1",
+  "ti": "Food - Thức ăn - Phần 1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "apple",
+      "m": [
+        {
+          "mn": "quả táo",
+          "e": {
+            "r": "I eat an apple every morning.",
+            "t": "Tôi ăn một quả táo mỗi buổi sáng.",
+            "rd": [
+              {
+                "l1": "an apple",
+                "l2": "một quả táo",
+                "t": "n"
+              },
+              {
+                "l1": "every morning",
+                "l2": "mỗi buổi sáng",
+                "t": "n"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "eat",
+                "l2": "ăn",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bread",
+      "m": [
+        {
+          "mn": "bánh mì",
+          "e": {
+            "r": "She buys bread from the bakery.",
+            "t": "Cô ấy mua bánh mì từ tiệm bánh.",
+            "rd": [
+              {
+                "l1": "bread",
+                "l2": "bánh mì",
+                "t": "n"
+              },
+              {
+                "l1": "bakery",
+                "l2": "tiệm bánh",
+                "t": "n"
+              },
+              {
+                "l1": "buys",
+                "l2": "mua",
+                "t": "v"
+              },
+              {
+                "l1": "She",
+                "l2": "Cô ấy",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "rice",
+      "m": [
+        {
+          "mn": "cơm/gạo",
+          "e": {
+            "r": "We cook rice for dinner.",
+            "t": "Chúng tôi nấu cơm cho bữa tối.",
+            "rd": [
+              {
+                "l1": "rice",
+                "l2": "cơm/gạo",
+                "t": "n"
+              },
+              {
+                "l1": "cook",
+                "l2": "nấu",
+                "t": "v"
+              },
+              {
+                "l1": "dinner",
+                "l2": "bữa tối",
+                "t": "n"
+              },
+              {
+                "l1": "We",
+                "l2": "Chúng tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "banana",
+      "m": [
+        {
+          "mn": "quả chuối",
+          "e": {
+            "r": "He eats a banana after lunch.",
+            "t": "Anh ấy ăn một quả chuối sau bữa trưa.",
+            "rd": [
+              {
+                "l1": "a banana",
+                "l2": "một quả chuối",
+                "t": "n"
+              },
+              {
+                "l1": "after lunch",
+                "l2": "sau bữa trưa",
+                "t": "n"
+              },
+              {
+                "l1": "eats",
+                "l2": "ăn",
+                "t": "v"
+              },
+              {
+                "l1": "He",
+                "l2": "Anh ấy",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "milk",
+      "m": [
+        {
+          "mn": "sữa",
+          "e": {
+            "r": "The baby drinks milk every day.",
+            "t": "Em bé uống sữa mỗi ngày.",
+            "rd": [
+              {
+                "l1": "milk",
+                "l2": "sữa",
+                "t": "n"
+              },
+              {
+                "l1": "drinks",
+                "l2": "uống",
+                "t": "v"
+              },
+              {
+                "l1": "every day",
+                "l2": "mỗi ngày",
+                "t": "n"
+              },
+              {
+                "l1": "The baby",
+                "l2": "Em bé",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cheese",
+      "m": [
+        {
+          "mn": "pho mát",
+          "e": {
+            "r": "I like cheese in my sandwich.",
+            "t": "Tôi thích pho mát trong bánh sandwich của tôi.",
+            "rd": [
+              {
+                "l1": "cheese",
+                "l2": "pho mát",
+                "t": "n"
+              },
+              {
+                "l1": "sandwich",
+                "l2": "bánh sandwich",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "egg",
+      "m": [
+        {
+          "mn": "trứng",
+          "e": {
+            "r": "She fries an egg for breakfast.",
+            "t": "Cô ấy chiên một quả trứng cho bữa sáng.",
+            "rd": [
+              {
+                "l1": "an egg",
+                "l2": "một quả trứng",
+                "t": "n"
+              },
+              {
+                "l1": "fries",
+                "l2": "chiên",
+                "t": "v"
+              },
+              {
+                "l1": "breakfast",
+                "l2": "bữa sáng",
+                "t": "n"
+              },
+              {
+                "l1": "She",
+                "l2": "Cô ấy",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "meat",
+      "m": [
+        {
+          "mn": "thịt",
+          "e": {
+            "r": "They grill meat for the barbecue.",
+            "t": "Họ nướng thịt cho buổi tiệc nướng.",
+            "rd": [
+              {
+                "l1": "meat",
+                "l2": "thịt",
+                "t": "n"
+              },
+              {
+                "l1": "grill",
+                "l2": "nướng",
+                "t": "v"
+              },
+              {
+                "l1": "barbecue",
+                "l2": "buổi tiệc nướng",
+                "t": "n"
+              },
+              {
+                "l1": "They",
+                "l2": "Họ",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "fish",
+      "m": [
+        {
+          "mn": "cá",
+          "e": {
+            "r": "We eat fish on Fridays.",
+            "t": "Chúng tôi ăn cá vào các ngày thứ Sáu.",
+            "rd": [
+              {
+                "l1": "fish",
+                "l2": "cá",
+                "t": "n"
+              },
+              {
+                "l1": "eat",
+                "l2": "ăn",
+                "t": "v"
+              },
+              {
+                "l1": "Fridays",
+                "l2": "các ngày thứ Sáu",
+                "t": "n"
+              },
+              {
+                "l1": "We",
+                "l2": "Chúng tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "water",
+      "m": [
+        {
+          "mn": "nước",
+          "e": {
+            "r": "Please drink more water.",
+            "t": "Làm ơn hãy uống nhiều nước hơn.",
+            "rd": [
+              {
+                "l1": "water",
+                "l2": "nước",
+                "t": "n"
+              },
+              {
+                "l1": "drink",
+                "l2": "uống",
+                "t": "v"
+              },
+              {
+                "l1": "Please",
+                "l2": "Làm ơn",
+                "t": "n"
+              },
+              {
+                "l1": "more",
+                "l2": "nhiều hơn",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "soup",
+      "m": [
+        {
+          "mn": "súp",
+          "e": {
+            "r": "The soup is hot and tasty.",
+            "t": "Món súp nóng và ngon.",
+            "rd": [
+              {
+                "l1": "soup",
+                "l2": "súp",
+                "t": "n"
+              },
+              {
+                "l1": "hot",
+                "l2": "nóng",
+                "t": "a"
+              },
+              {
+                "l1": "tasty",
+                "l2": "ngon",
+                "t": "a"
+              },
+              {
+                "l1": "The",
+                "l2": "",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "chicken",
+      "m": [
+        {
+          "mn": "thịt gà",
+          "e": {
+            "r": "I order fried chicken for dinner.",
+            "t": "Tôi gọi món gà rán cho bữa tối.",
+            "rd": [
+              {
+                "l1": "fried chicken",
+                "l2": "gà rán",
+                "t": "n"
+              },
+              {
+                "l1": "order",
+                "l2": "gọi món",
+                "t": "v"
+              },
+              {
+                "l1": "dinner",
+                "l2": "bữa tối",
+                "t": "n"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "noodles",
+      "m": [
+        {
+          "mn": "mì",
+          "e": {
+            "r": "He eats noodles with chopsticks.",
+            "t": "Anh ấy ăn mì bằng đũa.",
+            "rd": [
+              {
+                "l1": "noodles",
+                "l2": "mì",
+                "t": "n"
+              },
+              {
+                "l1": "chopsticks",
+                "l2": "đũa",
+                "t": "n"
+              },
+              {
+                "l1": "eats",
+                "l2": "ăn",
+                "t": "v"
+              },
+              {
+                "l1": "He",
+                "l2": "Anh ấy",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "salad",
+      "m": [
+        {
+          "mn": "salad",
+          "e": {
+            "r": "She makes a fresh salad.",
+            "t": "Cô ấy làm món salad tươi.",
+            "rd": [
+              {
+                "l1": "salad",
+                "l2": "salad",
+                "t": "n"
+              },
+              {
+                "l1": "fresh",
+                "l2": "tươi",
+                "t": "a"
+              },
+              {
+                "l1": "makes",
+                "l2": "làm",
+                "t": "v"
+              },
+              {
+                "l1": "She",
+                "l2": "Cô ấy",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "orange",
+      "m": [
+        {
+          "mn": "quả cam",
+          "e": {
+            "r": "I drink orange juice every morning.",
+            "t": "Tôi uống nước cam mỗi sáng.",
+            "rd": [
+              {
+                "l1": "orange juice",
+                "l2": "nước cam",
+                "t": "n"
+              },
+              {
+                "l1": "drink",
+                "l2": "uống",
+                "t": "v"
+              },
+              {
+                "l1": "every morning",
+                "l2": "mỗi sáng",
+                "t": "n"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "tomato",
+      "m": [
+        {
+          "mn": "cà chua",
+          "e": {
+            "r": "I like tomato very much.",
+            "t": "Tôi rất thích cà chua.",
+            "rd": [
+              {
+                "l1": "tomato",
+                "l2": "cà chua",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "potato",
+      "m": [
+        {
+          "mn": "khoai tây",
+          "e": {
+            "r": "I like potato very much.",
+            "t": "Tôi rất thích khoai tây.",
+            "rd": [
+              {
+                "l1": "potato",
+                "l2": "khoai tây",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "beef",
+      "m": [
+        {
+          "mn": "thịt bò",
+          "e": {
+            "r": "I like beef very much.",
+            "t": "Tôi rất thích thịt bò.",
+            "rd": [
+              {
+                "l1": "beef",
+                "l2": "thịt bò",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pork",
+      "m": [
+        {
+          "mn": "thịt heo",
+          "e": {
+            "r": "I like pork very much.",
+            "t": "Tôi rất thích thịt heo.",
+            "rd": [
+              {
+                "l1": "pork",
+                "l2": "thịt heo",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lettuce",
+      "m": [
+        {
+          "mn": "xà lách",
+          "e": {
+            "r": "I like lettuce very much.",
+            "t": "Tôi rất thích xà lách.",
+            "rd": [
+              {
+                "l1": "lettuce",
+                "l2": "xà lách",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cucumber",
+      "m": [
+        {
+          "mn": "dưa leo",
+          "e": {
+            "r": "I like cucumber very much.",
+            "t": "Tôi rất thích dưa leo.",
+            "rd": [
+              {
+                "l1": "cucumber",
+                "l2": "dưa leo",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "carrot",
+      "m": [
+        {
+          "mn": "cà rốt",
+          "e": {
+            "r": "I like carrot very much.",
+            "t": "Tôi rất thích cà rốt.",
+            "rd": [
+              {
+                "l1": "carrot",
+                "l2": "cà rốt",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "onion",
+      "m": [
+        {
+          "mn": "hành tây",
+          "e": {
+            "r": "I like onion very much.",
+            "t": "Tôi rất thích hành tây.",
+            "rd": [
+              {
+                "l1": "onion",
+                "l2": "hành tây",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "garlic",
+      "m": [
+        {
+          "mn": "tỏi",
+          "e": {
+            "r": "I like garlic very much.",
+            "t": "Tôi rất thích tỏi.",
+            "rd": [
+              {
+                "l1": "garlic",
+                "l2": "tỏi",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pepper",
+      "m": [
+        {
+          "mn": "tiêu",
+          "e": {
+            "r": "I like pepper very much.",
+            "t": "Tôi rất thích tiêu.",
+            "rd": [
+              {
+                "l1": "pepper",
+                "l2": "tiêu",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "salt",
+      "m": [
+        {
+          "mn": "muối",
+          "e": {
+            "r": "I like salt very much.",
+            "t": "Tôi rất thích muối.",
+            "rd": [
+              {
+                "l1": "salt",
+                "l2": "muối",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "butter",
+      "m": [
+        {
+          "mn": "bơ",
+          "e": {
+            "r": "I like butter very much.",
+            "t": "Tôi rất thích bơ.",
+            "rd": [
+              {
+                "l1": "butter",
+                "l2": "bơ",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "yogurt",
+      "m": [
+        {
+          "mn": "sữa chua",
+          "e": {
+            "r": "I like yogurt very much.",
+            "t": "Tôi rất thích sữa chua.",
+            "rd": [
+              {
+                "l1": "yogurt",
+                "l2": "sữa chua",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ice cream",
+      "m": [
+        {
+          "mn": "kem",
+          "e": {
+            "r": "I like ice cream very much.",
+            "t": "Tôi rất thích kem.",
+            "rd": [
+              {
+                "l1": "ice cream",
+                "l2": "kem",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "juice",
+      "m": [
+        {
+          "mn": "nước ép",
+          "e": {
+            "r": "I like juice very much.",
+            "t": "Tôi rất thích nước ép.",
+            "rd": [
+              {
+                "l1": "juice",
+                "l2": "nước ép",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "coffee",
+      "m": [
+        {
+          "mn": "cà phê",
+          "e": {
+            "r": "I like coffee very much.",
+            "t": "Tôi rất thích cà phê.",
+            "rd": [
+              {
+                "l1": "coffee",
+                "l2": "cà phê",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "tea",
+      "m": [
+        {
+          "mn": "trà",
+          "e": {
+            "r": "I like tea very much.",
+            "t": "Tôi rất thích trà.",
+            "rd": [
+              {
+                "l1": "tea",
+                "l2": "trà",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "honey",
+      "m": [
+        {
+          "mn": "mật ong",
+          "e": {
+            "r": "I like honey very much.",
+            "t": "Tôi rất thích mật ong.",
+            "rd": [
+              {
+                "l1": "honey",
+                "l2": "mật ong",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cake",
+      "m": [
+        {
+          "mn": "bánh ngọt",
+          "e": {
+            "r": "I like cake very much.",
+            "t": "Tôi rất thích bánh ngọt.",
+            "rd": [
+              {
+                "l1": "cake",
+                "l2": "bánh ngọt",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "candy",
+      "m": [
+        {
+          "mn": "kẹo",
+          "e": {
+            "r": "I like candy very much.",
+            "t": "Tôi rất thích kẹo.",
+            "rd": [
+              {
+                "l1": "candy",
+                "l2": "kẹo",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pizza",
+      "m": [
+        {
+          "mn": "bánh pizza",
+          "e": {
+            "r": "I like pizza very much.",
+            "t": "Tôi rất thích bánh pizza.",
+            "rd": [
+              {
+                "l1": "pizza",
+                "l2": "bánh pizza",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "hamburger",
+      "m": [
+        {
+          "mn": "bánh hamburger",
+          "e": {
+            "r": "I like hamburger very much.",
+            "t": "Tôi rất thích bánh hamburger.",
+            "rd": [
+              {
+                "l1": "hamburger",
+                "l2": "bánh hamburger",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "spaghetti",
+      "m": [
+        {
+          "mn": "mì spaghetti",
+          "e": {
+            "r": "I like spaghetti very much.",
+            "t": "Tôi rất thích mì spaghetti.",
+            "rd": [
+              {
+                "l1": "spaghetti",
+                "l2": "mì spaghetti",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "mushroom",
+      "m": [
+        {
+          "mn": "nấm",
+          "e": {
+            "r": "I like mushroom very much.",
+            "t": "Tôi rất thích nấm.",
+            "rd": [
+              {
+                "l1": "mushroom",
+                "l2": "nấm",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "shrimp",
+      "m": [
+        {
+          "mn": "tôm",
+          "e": {
+            "r": "I like shrimp very much.",
+            "t": "Tôi rất thích tôm.",
+            "rd": [
+              {
+                "l1": "shrimp",
+                "l2": "tôm",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "crab",
+      "m": [
+        {
+          "mn": "cua",
+          "e": {
+            "r": "I like crab very much.",
+            "t": "Tôi rất thích cua.",
+            "rd": [
+              {
+                "l1": "crab",
+                "l2": "cua",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lobster",
+      "m": [
+        {
+          "mn": "tôm hùm",
+          "e": {
+            "r": "I like lobster very much.",
+            "t": "Tôi rất thích tôm hùm.",
+            "rd": [
+              {
+                "l1": "lobster",
+                "l2": "tôm hùm",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "spinach",
+      "m": [
+        {
+          "mn": "rau bina",
+          "e": {
+            "r": "I like spinach very much.",
+            "t": "Tôi rất thích rau bina.",
+            "rd": [
+              {
+                "l1": "spinach",
+                "l2": "rau bina",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "broccoli",
+      "m": [
+        {
+          "mn": "súp lơ xanh",
+          "e": {
+            "r": "I like broccoli very much.",
+            "t": "Tôi rất thích súp lơ xanh.",
+            "rd": [
+              {
+                "l1": "broccoli",
+                "l2": "súp lơ xanh",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "corn",
+      "m": [
+        {
+          "mn": "bắp/ngô",
+          "e": {
+            "r": "I like corn very much.",
+            "t": "Tôi rất thích bắp/ngô.",
+            "rd": [
+              {
+                "l1": "corn",
+                "l2": "bắp/ngô",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "grapes",
+      "m": [
+        {
+          "mn": "nho",
+          "e": {
+            "r": "I like grapes very much.",
+            "t": "Tôi rất thích nho.",
+            "rd": [
+              {
+                "l1": "grapes",
+                "l2": "nho",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "strawberry",
+      "m": [
+        {
+          "mn": "dâu tây",
+          "e": {
+            "r": "I like strawberry very much.",
+            "t": "Tôi rất thích dâu tây.",
+            "rd": [
+              {
+                "l1": "strawberry",
+                "l2": "dâu tây",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pineapple",
+      "m": [
+        {
+          "mn": "dứa/thơm",
+          "e": {
+            "r": "I like pineapple very much.",
+            "t": "Tôi rất thích dứa/thơm.",
+            "rd": [
+              {
+                "l1": "pineapple",
+                "l2": "dứa/thơm",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "watermelon",
+      "m": [
+        {
+          "mn": "dưa hấu",
+          "e": {
+            "r": "I like watermelon very much.",
+            "t": "Tôi rất thích dưa hấu.",
+            "rd": [
+              {
+                "l1": "watermelon",
+                "l2": "dưa hấu",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pear",
+      "m": [
+        {
+          "mn": "quả lê",
+          "e": {
+            "r": "I like pear very much.",
+            "t": "Tôi rất thích quả lê.",
+            "rd": [
+              {
+                "l1": "pear",
+                "l2": "quả lê",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "peach",
+      "m": [
+        {
+          "mn": "quả đào",
+          "e": {
+            "r": "I like peach very much.",
+            "t": "Tôi rất thích quả đào.",
+            "rd": [
+              {
+                "l1": "peach",
+                "l2": "quả đào",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "plum",
+      "m": [
+        {
+          "mn": "quả mận",
+          "e": {
+            "r": "I like plum very much.",
+            "t": "Tôi rất thích quả mận.",
+            "rd": [
+              {
+                "l1": "plum",
+                "l2": "quả mận",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cherry",
+      "m": [
+        {
+          "mn": "quả anh đào",
+          "e": {
+            "r": "I like cherry very much.",
+            "t": "Tôi rất thích quả anh đào.",
+            "rd": [
+              {
+                "l1": "cherry",
+                "l2": "quả anh đào",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lemon",
+      "m": [
+        {
+          "mn": "quả chanh",
+          "e": {
+            "r": "I like lemon very much.",
+            "t": "Tôi rất thích quả chanh.",
+            "rd": [
+              {
+                "l1": "lemon",
+                "l2": "quả chanh",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lime",
+      "m": [
+        {
+          "mn": "quả chanh xanh",
+          "e": {
+            "r": "I like lime very much.",
+            "t": "Tôi rất thích quả chanh xanh.",
+            "rd": [
+              {
+                "l1": "lime",
+                "l2": "quả chanh xanh",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "coconut",
+      "m": [
+        {
+          "mn": "quả dừa",
+          "e": {
+            "r": "I like coconut very much.",
+            "t": "Tôi rất thích quả dừa.",
+            "rd": [
+              {
+                "l1": "coconut",
+                "l2": "quả dừa",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "avocado",
+      "m": [
+        {
+          "mn": "quả bơ",
+          "e": {
+            "r": "I like avocado very much.",
+            "t": "Tôi rất thích quả bơ.",
+            "rd": [
+              {
+                "l1": "avocado",
+                "l2": "quả bơ",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "blueberry",
+      "m": [
+        {
+          "mn": "quả việt quất",
+          "e": {
+            "r": "I like blueberry very much.",
+            "t": "Tôi rất thích quả việt quất.",
+            "rd": [
+              {
+                "l1": "blueberry",
+                "l2": "quả việt quất",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "raspberry",
+      "m": [
+        {
+          "mn": "quả mâm xôi",
+          "e": {
+            "r": "I like raspberry very much.",
+            "t": "Tôi rất thích quả mâm xôi.",
+            "rd": [
+              {
+                "l1": "raspberry",
+                "l2": "quả mâm xôi",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pomegranate",
+      "m": [
+        {
+          "mn": "quả lựu",
+          "e": {
+            "r": "I like pomegranate very much.",
+            "t": "Tôi rất thích quả lựu.",
+            "rd": [
+              {
+                "l1": "pomegranate",
+                "l2": "quả lựu",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "fig",
+      "m": [
+        {
+          "mn": "quả sung",
+          "e": {
+            "r": "I like fig very much.",
+            "t": "Tôi rất thích quả sung.",
+            "rd": [
+              {
+                "l1": "fig",
+                "l2": "quả sung",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "kiwi",
+      "m": [
+        {
+          "mn": "quả kiwi",
+          "e": {
+            "r": "I like kiwi very much.",
+            "t": "Tôi rất thích quả kiwi.",
+            "rd": [
+              {
+                "l1": "kiwi",
+                "l2": "quả kiwi",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "papaya",
+      "m": [
+        {
+          "mn": "đu đủ",
+          "e": {
+            "r": "I like papaya very much.",
+            "t": "Tôi rất thích đu đủ.",
+            "rd": [
+              {
+                "l1": "papaya",
+                "l2": "đu đủ",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "guava",
+      "m": [
+        {
+          "mn": "ổi",
+          "e": {
+            "r": "I like guava very much.",
+            "t": "Tôi rất thích ổi.",
+            "rd": [
+              {
+                "l1": "guava",
+                "l2": "ổi",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "dragon fruit",
+      "m": [
+        {
+          "mn": "thanh long",
+          "e": {
+            "r": "I like dragon fruit very much.",
+            "t": "Tôi rất thích thanh long.",
+            "rd": [
+              {
+                "l1": "dragon fruit",
+                "l2": "thanh long",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "jackfruit",
+      "m": [
+        {
+          "mn": "mít",
+          "e": {
+            "r": "I like jackfruit very much.",
+            "t": "Tôi rất thích mít.",
+            "rd": [
+              {
+                "l1": "jackfruit",
+                "l2": "mít",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "durian",
+      "m": [
+        {
+          "mn": "sầu riêng",
+          "e": {
+            "r": "I like durian very much.",
+            "t": "Tôi rất thích sầu riêng.",
+            "rd": [
+              {
+                "l1": "durian",
+                "l2": "sầu riêng",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "almond",
+      "m": [
+        {
+          "mn": "hạt hạnh nhân",
+          "e": {
+            "r": "I like almond very much.",
+            "t": "Tôi rất thích hạt hạnh nhân.",
+            "rd": [
+              {
+                "l1": "almond",
+                "l2": "hạt hạnh nhân",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "peanut",
+      "m": [
+        {
+          "mn": "đậu phộng",
+          "e": {
+            "r": "I like peanut very much.",
+            "t": "Tôi rất thích đậu phộng.",
+            "rd": [
+              {
+                "l1": "peanut",
+                "l2": "đậu phộng",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "walnut",
+      "m": [
+        {
+          "mn": "óc chó",
+          "e": {
+            "r": "I like walnut very much.",
+            "t": "Tôi rất thích óc chó.",
+            "rd": [
+              {
+                "l1": "walnut",
+                "l2": "óc chó",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cashew",
+      "m": [
+        {
+          "mn": "hạt điều",
+          "e": {
+            "r": "I like cashew very much.",
+            "t": "Tôi rất thích hạt điều.",
+            "rd": [
+              {
+                "l1": "cashew",
+                "l2": "hạt điều",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "chestnut",
+      "m": [
+        {
+          "mn": "hạt dẻ",
+          "e": {
+            "r": "I like chestnut very much.",
+            "t": "Tôi rất thích hạt dẻ.",
+            "rd": [
+              {
+                "l1": "chestnut",
+                "l2": "hạt dẻ",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "sunflower seed",
+      "m": [
+        {
+          "mn": "hạt hướng dương",
+          "e": {
+            "r": "I like sunflower seed very much.",
+            "t": "Tôi rất thích hạt hướng dương.",
+            "rd": [
+              {
+                "l1": "sunflower seed",
+                "l2": "hạt hướng dương",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pumpkin seed",
+      "m": [
+        {
+          "mn": "hạt bí",
+          "e": {
+            "r": "I like pumpkin seed very much.",
+            "t": "Tôi rất thích hạt bí.",
+            "rd": [
+              {
+                "l1": "pumpkin seed",
+                "l2": "hạt bí",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "oatmeal",
+      "m": [
+        {
+          "mn": "bột yến mạch",
+          "e": {
+            "r": "I like oatmeal very much.",
+            "t": "Tôi rất thích bột yến mạch.",
+            "rd": [
+              {
+                "l1": "oatmeal",
+                "l2": "bột yến mạch",
+                "t": "n"
+              },
+              {
+                "l1": "like",
+                "l2": "thích",
+                "t": "v"
+              },
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

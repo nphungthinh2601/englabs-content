@@ -1,0 +1,95 @@
+{
+  "id": "the_impact_of_technology_on_society",
+  "ti": "The Impact Of Technology On Society",
+  "img": "",
+  "bimg": "",
+  "c": [
+    {
+      "r": "In today’s rapidly evolving world, technology has become an inseparable part of our daily lives.",
+      "t": "Trong thế giới phát triển nhanh chóng ngày nay, công nghệ đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta.",
+      "rd": [
+        { "l1": "today", "l2": "ngày nay", "t": "n" },
+        {
+          "l1": "rapidly evolving world",
+          "l2": "thế giới phát triển nhanh chóng",
+          "t": "n"
+        },
+        { "l1": "technology", "l2": "công nghệ", "t": "n" },
+        {
+          "l1": "an inseparable part",
+          "l2": "một phần không thể thiếu",
+          "t": "n"
+        },
+        {
+          "l1": "our daily lives",
+          "l2": "cuộc sống hàng ngày của chúng ta",
+          "t": "n"
+        },
+        { "l1": "has become", "l2": "đã trở thành", "t": "v" },
+        { "l1": "’s", "l2": "của", "t": "v" }
+      ]
+    },
+    {
+      "r": "It has changed the way we communicate, work, and even think.",
+      "t": "Nó đã thay đổi cách chúng ta giao tiếp, làm việc và thậm chí suy nghĩ.",
+      "rd": [
+        { "l1": "It", "l2": "Nó", "t": "n" },
+        { "l1": "the way", "l2": "cách", "t": "n" },
+        { "l1": "we", "l2": "chúng ta", "t": "n" },
+        { "l1": "has changed", "l2": "đã thay đổi", "t": "v" },
+        { "l1": "even think", "l2": "thậm chí suy nghĩ", "t": "v" },
+        { "l1": "communicate", "l2": "giao tiếp", "t": "v" },
+        { "l1": "work", "l2": "làm việc", "t": "v" }
+      ]
+    },
+    {
+      "r": "The advent of the internet and smartphones, in particular, has transformed how individuals interact with each other and access information.",
+      "t": "Sự ra đời của internet và đặc biệt là điện thoại thông minh đã thay đổi cách mọi người tương tác với nhau và tiếp cận thông tin.",
+      "rd": [
+        { "l1": "The advent", "l2": "Sự ra đời", "t": "n" },
+        { "l1": "the internet", "l2": "internet", "t": "n" },
+        { "l1": "smartphones", "l2": "điện thoại thông minh", "t": "n" },
+        { "l1": "individuals", "l2": "mọi người", "t": "n" },
+        {
+          "l1": "each other and access information",
+          "l2": "với nhau và tiếp cận thông tin",
+          "t": "n"
+        },
+        { "l1": "has transformed", "l2": "đã thay đổi", "t": "v" },
+        { "l1": "particular", "l2": "đặc biệt", "t": "adj" },
+        { "l1": "interact", "l2": "tương tác", "t": "v" }
+      ]
+    },
+    {
+      "r": "Technology has greatly influenced various sectors, including education, healthcare, and business, enabling greater efficiency and convenience.",
+      "t": "Công nghệ đã ảnh hưởng lớn đến nhiều lĩnh vực khác nhau, bao gồm giáo dục, y tế và kinh doanh, giúp tăng cường hiệu quả và sự tiện lợi.",
+      "rd": [
+        { "l1": "Technology", "l2": "Công nghệ", "t": "n" },
+        { "l1": "various sectors", "l2": "nhiều lĩnh vực khác nhau", "t": "n" },
+        { "l1": "education", "l2": "giáo dục", "t": "n" },
+        { "l1": "healthcare", "l2": "y tế", "t": "n" },
+        { "l1": "business", "l2": "kinh doanh", "t": "n" },
+        { "l1": "greater efficiency", "l2": "hiệu quả cao hơn", "t": "n" },
+        { "l1": "convenience", "l2": "sự tiện lợi", "t": "n" },
+        { "l1": "has greatly influenced", "l2": "đã ảnh hưởng lớn", "t": "v" },
+        { "l1": "including", "l2": "bao gồm", "t": "v" },
+        { "l1": "enabling", "l2": "giúp tăng cường", "t": "v" }
+      ]
+    },
+    {
+      "r": "However, the effects of technology on society are not without controversy, as it has also led to new challenges and concerns.",
+      "t": "Tuy nhiên, những tác động của công nghệ đối với xã hội cũng gây ra nhiều tranh cãi, vì nó cũng dẫn đến những thách thức và mối lo ngại mới.",
+      "rd": [
+        { "l1": "the effects", "l2": "những tác động", "t": "n" },
+        { "l1": "technology", "l2": "công nghệ", "t": "n" },
+        { "l1": "society", "l2": "xã hội", "t": "n" },
+        { "l1": "controversy", "l2": "tranh cãi", "t": "n" },
+        { "l1": "it", "l2": "nó", "t": "n" },
+        { "l1": "new challenges", "l2": "những thách thức mới", "t": "n" },
+        { "l1": "concerns", "l2": "mối lo ngại", "t": "n" },
+        { "l1": "has also led", "l2": "cũng dẫn đến", "t": "v" },
+        { "l1": "However", "l2": "Tuy nhiên", "t": "adv" }
+      ]
+    }
+  ]
+}

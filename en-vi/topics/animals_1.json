@@ -1,0 +1,1708 @@
+{
+  "id": "animals_1",
+  "ti": "Animals - Động vật - Phần 1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "cat",
+      "m": [
+        {
+          "mn": "con mèo",
+          "e": {
+            "r": "The cat is very interesting.",
+            "t": "Con con mèo rất thú vị.",
+            "rd": [
+              {
+                "l1": "cat",
+                "l2": "con mèo",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "dog",
+      "m": [
+        {
+          "mn": "con chó",
+          "e": {
+            "r": "The dog is very interesting.",
+            "t": "Con con chó rất thú vị.",
+            "rd": [
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bird",
+      "m": [
+        {
+          "mn": "con chim",
+          "e": {
+            "r": "The bird is very interesting.",
+            "t": "Con con chim rất thú vị.",
+            "rd": [
+              {
+                "l1": "bird",
+                "l2": "con chim",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "fish",
+      "m": [
+        {
+          "mn": "con cá",
+          "e": {
+            "r": "The fish is very interesting.",
+            "t": "Con con cá rất thú vị.",
+            "rd": [
+              {
+                "l1": "fish",
+                "l2": "con cá",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "elephant",
+      "m": [
+        {
+          "mn": "con voi",
+          "e": {
+            "r": "The elephant is very interesting.",
+            "t": "Con con voi rất thú vị.",
+            "rd": [
+              {
+                "l1": "elephant",
+                "l2": "con voi",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lion",
+      "m": [
+        {
+          "mn": "sư tử",
+          "e": {
+            "r": "The lion is very interesting.",
+            "t": "Con sư tử rất thú vị.",
+            "rd": [
+              {
+                "l1": "lion",
+                "l2": "sư tử",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "tiger",
+      "m": [
+        {
+          "mn": "hổ",
+          "e": {
+            "r": "The tiger is very interesting.",
+            "t": "Con hổ rất thú vị.",
+            "rd": [
+              {
+                "l1": "tiger",
+                "l2": "hổ",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bear",
+      "m": [
+        {
+          "mn": "gấu",
+          "e": {
+            "r": "The bear is very interesting.",
+            "t": "Con gấu rất thú vị.",
+            "rd": [
+              {
+                "l1": "bear",
+                "l2": "gấu",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "monkey",
+      "m": [
+        {
+          "mn": "khỉ",
+          "e": {
+            "r": "The monkey is very interesting.",
+            "t": "Con khỉ rất thú vị.",
+            "rd": [
+              {
+                "l1": "monkey",
+                "l2": "khỉ",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "rabbit",
+      "m": [
+        {
+          "mn": "thỏ",
+          "e": {
+            "r": "The rabbit is very interesting.",
+            "t": "Con thỏ rất thú vị.",
+            "rd": [
+              {
+                "l1": "rabbit",
+                "l2": "thỏ",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "mouse",
+      "m": [
+        {
+          "mn": "chuột",
+          "e": {
+            "r": "The mouse is very interesting.",
+            "t": "Con chuột rất thú vị.",
+            "rd": [
+              {
+                "l1": "mouse",
+                "l2": "chuột",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "horse",
+      "m": [
+        {
+          "mn": "ngựa",
+          "e": {
+            "r": "The horse is very interesting.",
+            "t": "Con ngựa rất thú vị.",
+            "rd": [
+              {
+                "l1": "horse",
+                "l2": "ngựa",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cow",
+      "m": [
+        {
+          "mn": "bò",
+          "e": {
+            "r": "The cow is very interesting.",
+            "t": "Con bò rất thú vị.",
+            "rd": [
+              {
+                "l1": "cow",
+                "l2": "bò",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pig",
+      "m": [
+        {
+          "mn": "heo",
+          "e": {
+            "r": "The pig is very interesting.",
+            "t": "Con heo rất thú vị.",
+            "rd": [
+              {
+                "l1": "pig",
+                "l2": "heo",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "sheep",
+      "m": [
+        {
+          "mn": "cừu",
+          "e": {
+            "r": "The sheep is very interesting.",
+            "t": "Con cừu rất thú vị.",
+            "rd": [
+              {
+                "l1": "sheep",
+                "l2": "cừu",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "goat",
+      "m": [
+        {
+          "mn": "dê",
+          "e": {
+            "r": "The goat is very interesting.",
+            "t": "Con dê rất thú vị.",
+            "rd": [
+              {
+                "l1": "goat",
+                "l2": "dê",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "chicken",
+      "m": [
+        {
+          "mn": "gà",
+          "e": {
+            "r": "The chicken is very interesting.",
+            "t": "Con gà rất thú vị.",
+            "rd": [
+              {
+                "l1": "chicken",
+                "l2": "gà",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "duck",
+      "m": [
+        {
+          "mn": "vịt",
+          "e": {
+            "r": "The duck is very interesting.",
+            "t": "Con vịt rất thú vị.",
+            "rd": [
+              {
+                "l1": "duck",
+                "l2": "vịt",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "frog",
+      "m": [
+        {
+          "mn": "ếch",
+          "e": {
+            "r": "The frog is very interesting.",
+            "t": "Con ếch rất thú vị.",
+            "rd": [
+              {
+                "l1": "frog",
+                "l2": "ếch",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "snake",
+      "m": [
+        {
+          "mn": "rắn",
+          "e": {
+            "r": "The snake is very interesting.",
+            "t": "Con rắn rất thú vị.",
+            "rd": [
+              {
+                "l1": "snake",
+                "l2": "rắn",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "deer",
+      "m": [
+        {
+          "mn": "hươu",
+          "e": {
+            "r": "The deer is very interesting.",
+            "t": "Con hươu rất thú vị.",
+            "rd": [
+              {
+                "l1": "deer",
+                "l2": "hươu",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "panda",
+      "m": [
+        {
+          "mn": "gấu trúc",
+          "e": {
+            "r": "The panda is very interesting.",
+            "t": "Con gấu trúc rất thú vị.",
+            "rd": [
+              {
+                "l1": "panda",
+                "l2": "gấu trúc",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "giraffe",
+      "m": [
+        {
+          "mn": "hươu cao cổ",
+          "e": {
+            "r": "The giraffe is very interesting.",
+            "t": "Con hươu cao cổ rất thú vị.",
+            "rd": [
+              {
+                "l1": "giraffe",
+                "l2": "hươu cao cổ",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "kangaroo",
+      "m": [
+        {
+          "mn": "chuột túi",
+          "e": {
+            "r": "The kangaroo is very interesting.",
+            "t": "Con chuột túi rất thú vị.",
+            "rd": [
+              {
+                "l1": "kangaroo",
+                "l2": "chuột túi",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "crocodile",
+      "m": [
+        {
+          "mn": "cá sấu",
+          "e": {
+            "r": "The crocodile is very interesting.",
+            "t": "Con cá sấu rất thú vị.",
+            "rd": [
+              {
+                "l1": "crocodile",
+                "l2": "cá sấu",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "shark",
+      "m": [
+        {
+          "mn": "cá mập",
+          "e": {
+            "r": "The shark is very interesting.",
+            "t": "Con cá mập rất thú vị.",
+            "rd": [
+              {
+                "l1": "shark",
+                "l2": "cá mập",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "whale",
+      "m": [
+        {
+          "mn": "cá voi",
+          "e": {
+            "r": "The whale is very interesting.",
+            "t": "Con cá voi rất thú vị.",
+            "rd": [
+              {
+                "l1": "whale",
+                "l2": "cá voi",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "dolphin",
+      "m": [
+        {
+          "mn": "cá heo",
+          "e": {
+            "r": "The dolphin is very interesting.",
+            "t": "Con cá heo rất thú vị.",
+            "rd": [
+              {
+                "l1": "dolphin",
+                "l2": "cá heo",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "octopus",
+      "m": [
+        {
+          "mn": "bạch tuộc",
+          "e": {
+            "r": "The octopus is very interesting.",
+            "t": "Con bạch tuộc rất thú vị.",
+            "rd": [
+              {
+                "l1": "octopus",
+                "l2": "bạch tuộc",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "penguin",
+      "m": [
+        {
+          "mn": "chim cánh cụt",
+          "e": {
+            "r": "The penguin is very interesting.",
+            "t": "Con chim cánh cụt rất thú vị.",
+            "rd": [
+              {
+                "l1": "penguin",
+                "l2": "chim cánh cụt",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "eagle",
+      "m": [
+        {
+          "mn": "đại bàng",
+          "e": {
+            "r": "The eagle is very interesting.",
+            "t": "Con đại bàng rất thú vị.",
+            "rd": [
+              {
+                "l1": "eagle",
+                "l2": "đại bàng",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "owl",
+      "m": [
+        {
+          "mn": "cú mèo",
+          "e": {
+            "r": "The owl is very interesting.",
+            "t": "Con cú mèo rất thú vị.",
+            "rd": [
+              {
+                "l1": "owl",
+                "l2": "cú mèo",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bat",
+      "m": [
+        {
+          "mn": "dơi",
+          "e": {
+            "r": "The bat is very interesting.",
+            "t": "Con dơi rất thú vị.",
+            "rd": [
+              {
+                "l1": "bat",
+                "l2": "dơi",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "squirrel",
+      "m": [
+        {
+          "mn": "sóc",
+          "e": {
+            "r": "The squirrel is very interesting.",
+            "t": "Con sóc rất thú vị.",
+            "rd": [
+              {
+                "l1": "squirrel",
+                "l2": "sóc",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "fox",
+      "m": [
+        {
+          "mn": "cáo",
+          "e": {
+            "r": "The fox is very interesting.",
+            "t": "Con cáo rất thú vị.",
+            "rd": [
+              {
+                "l1": "fox",
+                "l2": "cáo",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "wolf",
+      "m": [
+        {
+          "mn": "sói",
+          "e": {
+            "r": "The wolf is very interesting.",
+            "t": "Con sói rất thú vị.",
+            "rd": [
+              {
+                "l1": "wolf",
+                "l2": "sói",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "camel",
+      "m": [
+        {
+          "mn": "lạc đà",
+          "e": {
+            "r": "The camel is very interesting.",
+            "t": "Con lạc đà rất thú vị.",
+            "rd": [
+              {
+                "l1": "camel",
+                "l2": "lạc đà",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "buffalo",
+      "m": [
+        {
+          "mn": "trâu",
+          "e": {
+            "r": "The buffalo is very interesting.",
+            "t": "Con trâu rất thú vị.",
+            "rd": [
+              {
+                "l1": "buffalo",
+                "l2": "trâu",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ant",
+      "m": [
+        {
+          "mn": "kiến",
+          "e": {
+            "r": "The ant is very interesting.",
+            "t": "Con kiến rất thú vị.",
+            "rd": [
+              {
+                "l1": "ant",
+                "l2": "kiến",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bee",
+      "m": [
+        {
+          "mn": "ong",
+          "e": {
+            "r": "The bee is very interesting.",
+            "t": "Con ong rất thú vị.",
+            "rd": [
+              {
+                "l1": "bee",
+                "l2": "ong",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "butterfly",
+      "m": [
+        {
+          "mn": "bướm",
+          "e": {
+            "r": "The butterfly is very interesting.",
+            "t": "Con bướm rất thú vị.",
+            "rd": [
+              {
+                "l1": "butterfly",
+                "l2": "bướm",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "spider",
+      "m": [
+        {
+          "mn": "nhện",
+          "e": {
+            "r": "The spider is very interesting.",
+            "t": "Con nhện rất thú vị.",
+            "rd": [
+              {
+                "l1": "spider",
+                "l2": "nhện",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "crab",
+      "m": [
+        {
+          "mn": "cua",
+          "e": {
+            "r": "The crab is very interesting.",
+            "t": "Con cua rất thú vị.",
+            "rd": [
+              {
+                "l1": "crab",
+                "l2": "cua",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lobster",
+      "m": [
+        {
+          "mn": "tôm hùm",
+          "e": {
+            "r": "The lobster is very interesting.",
+            "t": "Con tôm hùm rất thú vị.",
+            "rd": [
+              {
+                "l1": "lobster",
+                "l2": "tôm hùm",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "seahorse",
+      "m": [
+        {
+          "mn": "cá ngựa",
+          "e": {
+            "r": "The seahorse is very interesting.",
+            "t": "Con cá ngựa rất thú vị.",
+            "rd": [
+              {
+                "l1": "seahorse",
+                "l2": "cá ngựa",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "starfish",
+      "m": [
+        {
+          "mn": "sao biển",
+          "e": {
+            "r": "The starfish is very interesting.",
+            "t": "Con sao biển rất thú vị.",
+            "rd": [
+              {
+                "l1": "starfish",
+                "l2": "sao biển",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "jellyfish",
+      "m": [
+        {
+          "mn": "sứa",
+          "e": {
+            "r": "The jellyfish is very interesting.",
+            "t": "Con sứa rất thú vị.",
+            "rd": [
+              {
+                "l1": "jellyfish",
+                "l2": "sứa",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "turkey",
+      "m": [
+        {
+          "mn": "gà tây",
+          "e": {
+            "r": "The turkey is very interesting.",
+            "t": "Con gà tây rất thú vị.",
+            "rd": [
+              {
+                "l1": "turkey",
+                "l2": "gà tây",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "peacock",
+      "m": [
+        {
+          "mn": "con công",
+          "e": {
+            "r": "The peacock is very interesting.",
+            "t": "Con con công rất thú vị.",
+            "rd": [
+              {
+                "l1": "peacock",
+                "l2": "con công",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "rhino",
+      "m": [
+        {
+          "mn": "tê giác",
+          "e": {
+            "r": "The rhino is very interesting.",
+            "t": "Con tê giác rất thú vị.",
+            "rd": [
+              {
+                "l1": "rhino",
+                "l2": "tê giác",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "very",
+                "l2": "rất",
+                "t": "n"
+              },
+              {
+                "l1": "interesting",
+                "l2": "thú vị",
+                "t": "a"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

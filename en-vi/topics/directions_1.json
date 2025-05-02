@@ -1,0 +1,418 @@
+{
+  "id": "directions_1",
+  "ti": "Directions - Hướng dẫn - Phần 1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "turn left",
+      "m": [
+        {
+          "mn": "rẽ trái",
+          "e": {
+            "r": "Turn left at the next corner.",
+            "t": "Rẽ trái ở góc tiếp theo.",
+            "rd": [
+              { "l1": "turn left", "l2": "rẽ trái", "t": "v" },
+              { "l1": "at the next corner", "l2": "ở góc tiếp theo", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "turn right",
+      "m": [
+        {
+          "mn": "rẽ phải",
+          "e": {
+            "r": "Turn right after the traffic light.",
+            "t": "Rẽ phải sau đèn giao thông.",
+            "rd": [
+              { "l1": "turn right", "l2": "rẽ phải", "t": "v" },
+              {
+                "l1": "after the traffic light",
+                "l2": "sau đèn giao thông",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "go straight",
+      "m": [
+        {
+          "mn": "đi thẳng",
+          "e": {
+            "r": "Go straight for two blocks.",
+            "t": "Đi thẳng hai dãy nhà.",
+            "rd": [
+              { "l1": "go straight", "l2": "đi thẳng", "t": "v" },
+              { "l1": "two blocks", "l2": "hai dãy nhà", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cross the street",
+      "m": [
+        {
+          "mn": "băng qua đường",
+          "e": {
+            "r": "Cross the street at the pedestrian crossing.",
+            "t": "Băng qua đường ở vạch qua đường cho người đi bộ.",
+            "rd": [
+              { "l1": "cross the street", "l2": "băng qua đường", "t": "v" },
+              {
+                "l1": "pedestrian crossing",
+                "l2": "vạch qua đường cho người đi bộ",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "traffic light",
+      "m": [
+        {
+          "mn": "đèn giao thông",
+          "e": {
+            "r": "Stop at the traffic light.",
+            "t": "Dừng lại ở đèn giao thông.",
+            "rd": [
+              { "l1": "traffic light", "l2": "đèn giao thông", "t": "n" },
+              { "l1": "stop", "l2": "dừng lại", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "roundabout",
+      "m": [
+        {
+          "mn": "bùng binh/vòng xuyến",
+          "e": {
+            "r": "Take the second exit at the roundabout.",
+            "t": "Đi lối ra thứ hai ở vòng xuyến.",
+            "rd": [
+              { "l1": "roundabout", "l2": "vòng xuyến", "t": "n" },
+              { "l1": "second exit", "l2": "lối ra thứ hai", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "intersection",
+      "m": [
+        {
+          "mn": "ngã tư/ngã ba",
+          "e": {
+            "r": "Turn left at the intersection.",
+            "t": "Rẽ trái ở ngã tư.",
+            "rd": [
+              { "l1": "intersection", "l2": "ngã tư", "t": "n" },
+              { "l1": "turn left", "l2": "rẽ trái", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "corner",
+      "m": [
+        {
+          "mn": "góc đường",
+          "e": {
+            "r": "The pharmacy is on the corner.",
+            "t": "Hiệu thuốc ở ngay góc đường.",
+            "rd": [
+              { "l1": "pharmacy", "l2": "hiệu thuốc", "t": "n" },
+              { "l1": "on the corner", "l2": "ở góc đường", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "next to",
+      "m": [
+        {
+          "mn": "bên cạnh",
+          "e": {
+            "r": "The hotel is next to the bank.",
+            "t": "Khách sạn nằm bên cạnh ngân hàng.",
+            "rd": [
+              { "l1": "next to", "l2": "bên cạnh", "t": "n" },
+              { "l1": "hotel", "l2": "khách sạn", "t": "n" },
+              { "l1": "bank", "l2": "ngân hàng", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "behind",
+      "m": [
+        {
+          "mn": "phía sau",
+          "e": {
+            "r": "The school is behind the park.",
+            "t": "Trường học nằm phía sau công viên.",
+            "rd": [
+              { "l1": "behind", "l2": "phía sau", "t": "n" },
+              { "l1": "school", "l2": "trường học", "t": "n" },
+              { "l1": "park", "l2": "công viên", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "opposite",
+      "m": [
+        {
+          "mn": "đối diện",
+          "e": {
+            "r": "The bus stop is opposite the supermarket.",
+            "t": "Trạm xe buýt đối diện siêu thị.",
+            "rd": [
+              { "l1": "opposite", "l2": "đối diện", "t": "n" },
+              { "l1": "bus stop", "l2": "trạm xe buýt", "t": "n" },
+              { "l1": "supermarket", "l2": "siêu thị", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "between",
+      "m": [
+        {
+          "mn": "ở giữa",
+          "e": {
+            "r": "The café is between the library and the bank.",
+            "t": "Quán cà phê nằm giữa thư viện và ngân hàng.",
+            "rd": [
+              { "l1": "between", "l2": "ở giữa", "t": "n" },
+              { "l1": "library", "l2": "thư viện", "t": "n" },
+              { "l1": "bank", "l2": "ngân hàng", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "near",
+      "m": [
+        {
+          "mn": "gần",
+          "e": {
+            "r": "The post office is near the hospital.",
+            "t": "Bưu điện gần bệnh viện.",
+            "rd": [
+              { "l1": "near", "l2": "gần", "t": "n" },
+              { "l1": "post office", "l2": "bưu điện", "t": "n" },
+              { "l1": "hospital", "l2": "bệnh viện", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "straight ahead",
+      "m": [
+        {
+          "mn": "phía trước",
+          "e": {
+            "r": "Go straight ahead until you see the museum.",
+            "t": "Đi thẳng phía trước cho đến khi bạn thấy bảo tàng.",
+            "rd": [
+              { "l1": "straight ahead", "l2": "phía trước", "t": "n" },
+              { "l1": "museum", "l2": "bảo tàng", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "take the first right",
+      "m": [
+        {
+          "mn": "rẽ phải ở ngã rẽ đầu tiên",
+          "e": {
+            "r": "Take the first right after the gas station.",
+            "t": "Rẽ phải ở ngã rẽ đầu tiên sau trạm xăng.",
+            "rd": [
+              {
+                "l1": "take the first right",
+                "l2": "rẽ phải ở ngã rẽ đầu tiên",
+                "t": "v"
+              },
+              { "l1": "gas station", "l2": "trạm xăng", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "go past",
+      "m": [
+        {
+          "mn": "đi qua",
+          "e": {
+            "r": "Go past the cinema and you'll see the park.",
+            "t": "Đi qua rạp chiếu phim và bạn sẽ thấy công viên.",
+            "rd": [
+              { "l1": "go past", "l2": "đi qua", "t": "v" },
+              { "l1": "cinema", "l2": "rạp chiếu phim", "t": "n" },
+              { "l1": "park", "l2": "công viên", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "exit",
+      "m": [
+        {
+          "mn": "lối ra",
+          "e": {
+            "r": "Take the third exit at the roundabout.",
+            "t": "Đi lối ra thứ ba ở vòng xuyến.",
+            "rd": [
+              { "l1": "exit", "l2": "lối ra", "t": "n" },
+              { "l1": "third", "l2": "thứ ba", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "entrance",
+      "m": [
+        {
+          "mn": "lối vào",
+          "e": {
+            "r": "The entrance is on your left.",
+            "t": "Lối vào ở phía bên trái bạn.",
+            "rd": [
+              { "l1": "entrance", "l2": "lối vào", "t": "n" },
+              { "l1": "on your left", "l2": "ở phía bên trái bạn", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "stairs",
+      "m": [
+        {
+          "mn": "cầu thang",
+          "e": {
+            "r": "Go up the stairs to the second floor.",
+            "t": "Đi lên cầu thang đến tầng hai.",
+            "rd": [
+              { "l1": "stairs", "l2": "cầu thang", "t": "n" },
+              { "l1": "second floor", "l2": "tầng hai", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "elevator",
+      "m": [
+        {
+          "mn": "thang máy",
+          "e": {
+            "r": "Take the elevator to the third floor.",
+            "t": "Đi thang máy lên tầng ba.",
+            "rd": [
+              { "l1": "elevator", "l2": "thang máy", "t": "n" },
+              { "l1": "third floor", "l2": "tầng ba", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "path",
+      "m": [
+        {
+          "mn": "con đường nhỏ/lối đi",
+          "e": {
+            "r": "Follow the path through the park.",
+            "t": "Đi theo lối đi xuyên qua công viên.",
+            "rd": [
+              { "l1": "path", "l2": "lối đi", "t": "n" },
+              {
+                "l1": "through the park",
+                "l2": "xuyên qua công viên",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "map",
+      "m": [
+        {
+          "mn": "bản đồ",
+          "e": {
+            "r": "Check the map to find the museum.",
+            "t": "Xem bản đồ để tìm bảo tàng.",
+            "rd": [
+              { "l1": "map", "l2": "bản đồ", "t": "n" },
+              { "l1": "find", "l2": "tìm", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bridge",
+      "m": [
+        {
+          "mn": "cây cầu",
+          "e": {
+            "r": "Cross the bridge to reach the island.",
+            "t": "Băng qua cây cầu để đến hòn đảo.",
+            "rd": [
+              { "l1": "bridge", "l2": "cây cầu", "t": "n" },
+              { "l1": "island", "l2": "hòn đảo", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "follow the signs",
+      "m": [
+        {
+          "mn": "làm theo biển chỉ dẫn",
+          "e": {
+            "r": "Follow the signs to the exit.",
+            "t": "Làm theo biển chỉ dẫn đến lối ra.",
+            "rd": [
+              {
+                "l1": "follow the signs",
+                "l2": "làm theo biển chỉ dẫn",
+                "t": "v"
+              },
+              { "l1": "exit", "l2": "lối ra", "t": "n" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

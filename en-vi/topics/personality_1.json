@@ -1,0 +1,605 @@
+{
+  "id": "personality_1",
+  "ti": "Personality - Tính cách - Phần 1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "kind",
+      "m": [
+        {
+          "mn": "tốt bụng",
+          "e": {
+            "r": "She is very kind to everyone.",
+            "t": "Cô ấy rất tốt bụng với mọi người.",
+            "rd": [
+              { "l1": "kind", "l2": "tốt bụng", "t": "adj" },
+              { "l1": "everyone", "l2": "mọi người", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "honest",
+      "m": [
+        {
+          "mn": "trung thực",
+          "e": {
+            "r": "John is an honest man.",
+            "t": "John là một người đàn ông trung thực.",
+            "rd": [
+              { "l1": "honest", "l2": "trung thực", "t": "adj" },
+              { "l1": "man", "l2": "người đàn ông", "t": "n" },
+              { "l1": "John", "l2": "John", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "brave",
+      "m": [
+        {
+          "mn": "dũng cảm",
+          "e": {
+            "r": "The firefighter is brave.",
+            "t": "Người lính cứu hỏa rất dũng cảm.",
+            "rd": [
+              { "l1": "brave", "l2": "dũng cảm", "t": "adj" },
+              { "l1": "firefighter", "l2": "người lính cứu hỏa", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "funny",
+      "m": [
+        {
+          "mn": "hài hước",
+          "e": {
+            "r": "He tells funny stories.",
+            "t": "Anh ấy kể những câu chuyện hài hước.",
+            "rd": [
+              { "l1": "funny", "l2": "hài hước", "t": "adj" },
+              { "l1": "stories", "l2": "những câu chuyện", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "friendly",
+      "m": [
+        {
+          "mn": "thân thiện",
+          "e": {
+            "r": "The dog is very friendly.",
+            "t": "Con chó rất thân thiện.",
+            "rd": [
+              { "l1": "friendly", "l2": "thân thiện", "t": "adj" },
+              { "l1": "dog", "l2": "con chó", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "generous",
+      "m": [
+        {
+          "mn": "hào phóng",
+          "e": {
+            "r": "My uncle is generous with his money.",
+            "t": "Chú tôi rất hào phóng với tiền bạc của mình.",
+            "rd": [
+              { "l1": "generous", "l2": "hào phóng", "t": "adj" },
+              { "l1": "uncle", "l2": "chú", "t": "n" },
+              { "l1": "money", "l2": "tiền bạc", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "lazy",
+      "m": [
+        {
+          "mn": "lười biếng",
+          "e": {
+            "r": "He is too lazy to exercise.",
+            "t": "Anh ấy quá lười biếng để tập thể dục.",
+            "rd": [
+              { "l1": "lazy", "l2": "lười biếng", "t": "adj" },
+              { "l1": "exercise", "l2": "tập thể dục", "t": "v" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "hardworking",
+      "m": [
+        {
+          "mn": "chăm chỉ",
+          "e": {
+            "r": "She is a hardworking student.",
+            "t": "Cô ấy là một học sinh chăm chỉ.",
+            "rd": [
+              { "l1": "hardworking", "l2": "chăm chỉ", "t": "adj" },
+              { "l1": "student", "l2": "học sinh", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "shy",
+      "m": [
+        {
+          "mn": "nhút nhát",
+          "e": {
+            "r": "The boy is shy around strangers.",
+            "t": "Cậu bé nhút nhát khi gặp người lạ.",
+            "rd": [
+              { "l1": "shy", "l2": "nhút nhát", "t": "adj" },
+              { "l1": "boy", "l2": "cậu bé", "t": "n" },
+              { "l1": "strangers", "l2": "người lạ", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "polite",
+      "m": [
+        {
+          "mn": "lịch sự",
+          "e": {
+            "r": "Be polite to your teacher.",
+            "t": "Hãy lịch sự với giáo viên của bạn.",
+            "rd": [
+              { "l1": "polite", "l2": "lịch sự", "t": "adj" },
+              { "l1": "teacher", "l2": "giáo viên", "t": "n" },
+              { "l1": "your", "l2": "của bạn", "t": "det" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "confident",
+      "m": [
+        {
+          "mn": "tự tin",
+          "e": {
+            "r": "She feels confident about her skills.",
+            "t": "Cô ấy cảm thấy tự tin về kỹ năng của mình.",
+            "rd": [
+              { "l1": "confident", "l2": "tự tin", "t": "adj" },
+              { "l1": "skills", "l2": "kỹ năng", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "talkative",
+      "m": [
+        {
+          "mn": "nói nhiều",
+          "e": {
+            "r": "Tom is very talkative in class.",
+            "t": "Tom rất nói nhiều trong lớp học.",
+            "rd": [
+              { "l1": "talkative", "l2": "nói nhiều", "t": "adj" },
+              { "l1": "class", "l2": "lớp học", "t": "n" },
+              { "l1": "Tom", "l2": "Tom", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "optimistic",
+      "m": [
+        {
+          "mn": "lạc quan",
+          "e": {
+            "r": "She is always optimistic about life.",
+            "t": "Cô ấy luôn lạc quan về cuộc sống.",
+            "rd": [
+              { "l1": "optimistic", "l2": "lạc quan", "t": "adj" },
+              { "l1": "life", "l2": "cuộc sống", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pessimistic",
+      "m": [
+        {
+          "mn": "bi quan",
+          "e": {
+            "r": "He has a pessimistic view of the future.",
+            "t": "Anh ấy có cái nhìn bi quan về tương lai.",
+            "rd": [
+              { "l1": "pessimistic", "l2": "bi quan", "t": "adj" },
+              { "l1": "future", "l2": "tương lai", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "creative",
+      "m": [
+        {
+          "mn": "sáng tạo",
+          "e": {
+            "r": "She is a creative designer.",
+            "t": "Cô ấy là một nhà thiết kế sáng tạo.",
+            "rd": [
+              { "l1": "creative", "l2": "sáng tạo", "t": "adj" },
+              { "l1": "designer", "l2": "nhà thiết kế", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "intelligent",
+      "m": [
+        {
+          "mn": "thông minh",
+          "e": {
+            "r": "He is very intelligent.",
+            "t": "Anh ấy rất thông minh.",
+            "rd": [
+              { "l1": "intelligent", "l2": "thông minh", "t": "adj" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "moody",
+      "m": [
+        {
+          "mn": "dễ thay đổi cảm xúc",
+          "e": {
+            "r": "She is often moody in the morning.",
+            "t": "Cô ấy thường hay thay đổi cảm xúc vào buổi sáng.",
+            "rd": [
+              { "l1": "moody", "l2": "dễ thay đổi cảm xúc", "t": "adj" },
+              { "l1": "morning", "l2": "buổi sáng", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "reliable",
+      "m": [
+        {
+          "mn": "đáng tin cậy",
+          "e": {
+            "r": "He is a reliable friend.",
+            "t": "Anh ấy là một người bạn đáng tin cậy.",
+            "rd": [
+              { "l1": "reliable", "l2": "đáng tin cậy", "t": "adj" },
+              { "l1": "friend", "l2": "người bạn", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "selfish",
+      "m": [
+        {
+          "mn": "ích kỷ",
+          "e": {
+            "r": "Don’t be selfish with your time.",
+            "t": "Đừng ích kỷ với thời gian của bạn.",
+            "rd": [
+              { "l1": "selfish", "l2": "ích kỷ", "t": "adj" },
+              { "l1": "time", "l2": "thời gian", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "curious",
+      "m": [
+        {
+          "mn": "tò mò",
+          "e": {
+            "r": "Children are curious about everything.",
+            "t": "Trẻ con rất tò mò về mọi thứ.",
+            "rd": [
+              { "l1": "curious", "l2": "tò mò", "t": "adj" },
+              { "l1": "children", "l2": "trẻ con", "t": "n" },
+              { "l1": "everything", "l2": "mọi thứ", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ambitious",
+      "m": [
+        {
+          "mn": "tham vọng",
+          "e": {
+            "r": "She is an ambitious young woman.",
+            "t": "Cô ấy là một người phụ nữ trẻ đầy tham vọng.",
+            "rd": [
+              { "l1": "ambitious", "l2": "tham vọng", "t": "adj" },
+              { "l1": "woman", "l2": "người phụ nữ", "t": "n" },
+              { "l1": "young", "l2": "trẻ", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "patient",
+      "m": [
+        {
+          "mn": "kiên nhẫn",
+          "e": {
+            "r": "He is very patient with his children.",
+            "t": "Anh ấy rất kiên nhẫn với các con của mình.",
+            "rd": [
+              { "l1": "patient", "l2": "kiên nhẫn", "t": "adj" },
+              { "l1": "children", "l2": "các con", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "stubborn",
+      "m": [
+        {
+          "mn": "bướng bỉnh",
+          "e": {
+            "r": "My brother is very stubborn.",
+            "t": "Anh trai tôi rất bướng bỉnh.",
+            "rd": [
+              { "l1": "stubborn", "l2": "bướng bỉnh", "t": "adj" },
+              { "l1": "brother", "l2": "anh trai", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "sensitive",
+      "m": [
+        {
+          "mn": "nhạy cảm",
+          "e": {
+            "r": "She is sensitive to criticism.",
+            "t": "Cô ấy nhạy cảm với lời chỉ trích.",
+            "rd": [
+              { "l1": "sensitive", "l2": "nhạy cảm", "t": "adj" },
+              { "l1": "criticism", "l2": "lời chỉ trích", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "jealous",
+      "m": [
+        {
+          "mn": "ghen tị",
+          "e": {
+            "r": "He feels jealous of his colleague.",
+            "t": "Anh ấy cảm thấy ghen tị với đồng nghiệp của mình.",
+            "rd": [
+              { "l1": "jealous", "l2": "ghen tị", "t": "adj" },
+              { "l1": "colleague", "l2": "đồng nghiệp", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "grumpy",
+      "m": [
+        {
+          "mn": "cáu kỉnh",
+          "e": {
+            "r": "Grandpa is grumpy in the morning.",
+            "t": "Ông hay cáu kỉnh vào buổi sáng.",
+            "rd": [
+              { "l1": "grumpy", "l2": "cáu kỉnh", "t": "adj" },
+              { "l1": "Grandpa", "l2": "ông", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "loyal",
+      "m": [
+        {
+          "mn": "trung thành",
+          "e": {
+            "r": "Dogs are loyal to their owners.",
+            "t": "Những chú chó rất trung thành với chủ của chúng.",
+            "rd": [
+              { "l1": "loyal", "l2": "trung thành", "t": "adj" },
+              { "l1": "dogs", "l2": "những chú chó", "t": "n" },
+              { "l1": "owners", "l2": "chủ", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cheerful",
+      "m": [
+        {
+          "mn": "vui vẻ",
+          "e": {
+            "r": "She always looks cheerful.",
+            "t": "Cô ấy luôn trông rất vui vẻ.",
+            "rd": [
+              { "l1": "cheerful", "l2": "vui vẻ", "t": "adj" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bossy",
+      "m": [
+        {
+          "mn": "hống hách",
+          "e": {
+            "r": "My sister can be very bossy.",
+            "t": "Chị gái tôi có thể rất hống hách.",
+            "rd": [
+              { "l1": "bossy", "l2": "hống hách", "t": "adj" },
+              { "l1": "sister", "l2": "chị gái", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "sociable",
+      "m": [
+        {
+          "mn": "hòa đồng",
+          "e": {
+            "r": "He is sociable and makes friends easily.",
+            "t": "Anh ấy rất hòa đồng và dễ kết bạn.",
+            "rd": [
+              { "l1": "sociable", "l2": "hòa đồng", "t": "adj" },
+              { "l1": "friends", "l2": "bạn bè", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "greedy",
+      "m": [
+        {
+          "mn": "tham lam",
+          "e": {
+            "r": "Don't be greedy with food.",
+            "t": "Đừng tham lam với đồ ăn.",
+            "rd": [
+              { "l1": "greedy", "l2": "tham lam", "t": "adj" },
+              { "l1": "food", "l2": "đồ ăn", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "helpful",
+      "m": [
+        {
+          "mn": "hay giúp đỡ",
+          "e": {
+            "r": "She is always helpful to others.",
+            "t": "Cô ấy luôn giúp đỡ người khác.",
+            "rd": [
+              { "l1": "helpful", "l2": "hay giúp đỡ", "t": "adj" },
+              { "l1": "others", "l2": "người khác", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "thoughtful",
+      "m": [
+        {
+          "mn": "chu đáo",
+          "e": {
+            "r": "He is thoughtful and caring.",
+            "t": "Anh ấy rất chu đáo và quan tâm.",
+            "rd": [
+              { "l1": "thoughtful", "l2": "chu đáo", "t": "adj" },
+              { "l1": "caring", "l2": "quan tâm", "t": "adj" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "proud",
+      "m": [
+        {
+          "mn": "tự hào",
+          "e": {
+            "r": "Parents are proud of their children.",
+            "t": "Cha mẹ tự hào về con cái của họ.",
+            "rd": [
+              { "l1": "proud", "l2": "tự hào", "t": "adj" },
+              { "l1": "parents", "l2": "cha mẹ", "t": "n" },
+              { "l1": "children", "l2": "con cái", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "careless",
+      "m": [
+        {
+          "mn": "bất cẩn",
+          "e": {
+            "r": "He made a careless mistake.",
+            "t": "Anh ấy đã mắc một lỗi bất cẩn.",
+            "rd": [
+              { "l1": "careless", "l2": "bất cẩn", "t": "adj" },
+              { "l1": "mistake", "l2": "lỗi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "independent",
+      "m": [
+        {
+          "mn": "độc lập",
+          "e": {
+            "r": "She is very independent for her age.",
+            "t": "Cô ấy rất độc lập so với độ tuổi của mình.",
+            "rd": [
+              { "l1": "independent", "l2": "độc lập", "t": "adj" },
+              { "l1": "age", "l2": "độ tuổi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

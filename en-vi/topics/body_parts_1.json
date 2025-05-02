@@ -1,0 +1,321 @@
+{
+  "id": "body_parts_1",
+  "ti": "Body Parts - Bộ phận cơ thể - Phần 1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "head",
+      "m": [
+        {
+          "mn": "cái đầu",
+          "e": {
+            "r": "He has a big head.",
+            "t": "Anh ấy có một cái đầu to.",
+            "rd": [
+              { "l1": "a big head", "l2": "một cái đầu to", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" },
+              { "l1": "has", "l2": "có", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "face",
+      "m": [
+        {
+          "mn": "khuôn mặt",
+          "e": {
+            "r": "She washes her face every morning.",
+            "t": "Cô ấy rửa mặt mỗi sáng.",
+            "rd": [
+              { "l1": "her face", "l2": "mặt của cô ấy", "t": "n" },
+              { "l1": "washes", "l2": "rửa", "t": "v" },
+              { "l1": "every morning", "l2": "mỗi sáng", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "eye",
+      "m": [
+        {
+          "mn": "mắt",
+          "e": {
+            "r": "My eyes are brown.",
+            "t": "Đôi mắt của tôi màu nâu.",
+            "rd": [
+              { "l1": "My eyes", "l2": "Đôi mắt của tôi", "t": "n" },
+              { "l1": "are", "l2": "là", "t": "v" },
+              { "l1": "brown", "l2": "màu nâu", "t": "a" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ear",
+      "m": [
+        {
+          "mn": "tai",
+          "e": {
+            "r": "She wears earrings on her ears.",
+            "t": "Cô ấy đeo bông tai trên tai.",
+            "rd": [
+              { "l1": "earrings", "l2": "bông tai", "t": "n" },
+              { "l1": "on her ears", "l2": "trên tai cô ấy", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" },
+              { "l1": "wears", "l2": "đeo", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "nose",
+      "m": [
+        {
+          "mn": "mũi",
+          "e": {
+            "r": "His nose is small.",
+            "t": "Mũi của anh ấy nhỏ.",
+            "rd": [
+              { "l1": "His nose", "l2": "Mũi của anh ấy", "t": "n" },
+              { "l1": "is", "l2": "là", "t": "v" },
+              { "l1": "small", "l2": "nhỏ", "t": "a" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "mouth",
+      "m": [
+        {
+          "mn": "miệng",
+          "e": {
+            "r": "Open your mouth, please.",
+            "t": "Làm ơn mở miệng ra.",
+            "rd": [
+              { "l1": "your mouth", "l2": "miệng của bạn", "t": "n" },
+              { "l1": "Open", "l2": "mở", "t": "v" },
+              { "l1": "please", "l2": "làm ơn", "t": "adv" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "tooth",
+      "m": [
+        {
+          "mn": "răng",
+          "e": {
+            "r": "I brush my teeth twice a day.",
+            "t": "Tôi đánh răng hai lần mỗi ngày.",
+            "rd": [
+              { "l1": "my teeth", "l2": "răng của tôi", "t": "n" },
+              { "l1": "brush", "l2": "đánh", "t": "v" },
+              { "l1": "twice a day", "l2": "hai lần mỗi ngày", "t": "n" },
+              { "l1": "I", "l2": "Tôi", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "tongue",
+      "m": [
+        {
+          "mn": "lưỡi",
+          "e": {
+            "r": "Stick out your tongue.",
+            "t": "Thè lưỡi ra.",
+            "rd": [
+              { "l1": "your tongue", "l2": "lưỡi của bạn", "t": "n" },
+              { "l1": "Stick out", "l2": "thè ra", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "hair",
+      "m": [
+        {
+          "mn": "tóc",
+          "e": {
+            "r": "She has long hair.",
+            "t": "Cô ấy có mái tóc dài.",
+            "rd": [
+              { "l1": "long hair", "l2": "mái tóc dài", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" },
+              { "l1": "has", "l2": "có", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "neck",
+      "m": [
+        {
+          "mn": "cổ",
+          "e": {
+            "r": "He wears a scarf around his neck.",
+            "t": "Anh ấy quàng khăn quanh cổ.",
+            "rd": [
+              { "l1": "a scarf", "l2": "một chiếc khăn", "t": "n" },
+              {
+                "l1": "around his neck",
+                "l2": "quanh cổ của anh ấy",
+                "t": "n"
+              },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" },
+              { "l1": "wears", "l2": "mặc/quàng", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "shoulder",
+      "m": [
+        {
+          "mn": "vai",
+          "e": {
+            "r": "She carries a bag on her shoulder.",
+            "t": "Cô ấy mang túi trên vai.",
+            "rd": [
+              { "l1": "a bag", "l2": "một cái túi", "t": "n" },
+              { "l1": "on her shoulder", "l2": "trên vai cô ấy", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" },
+              { "l1": "carries", "l2": "mang", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "arm",
+      "m": [
+        {
+          "mn": "cánh tay",
+          "e": {
+            "r": "He broke his arm.",
+            "t": "Anh ấy bị gãy tay.",
+            "rd": [
+              { "l1": "his arm", "l2": "cánh tay của anh ấy", "t": "n" },
+              { "l1": "broke", "l2": "bị gãy", "t": "v" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "elbow",
+      "m": [
+        {
+          "mn": "khuỷu tay",
+          "e": {
+            "r": "She leaned on her elbow.",
+            "t": "Cô ấy tựa vào khuỷu tay.",
+            "rd": [
+              { "l1": "her elbow", "l2": "khuỷu tay của cô ấy", "t": "n" },
+              { "l1": "leaned", "l2": "tựa", "t": "v" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "hand",
+      "m": [
+        {
+          "mn": "bàn tay",
+          "e": {
+            "r": "Wash your hands before eating.",
+            "t": "Rửa tay trước khi ăn.",
+            "rd": [
+              { "l1": "your hands", "l2": "tay của bạn", "t": "n" },
+              { "l1": "Wash", "l2": "rửa", "t": "v" },
+              { "l1": "before eating", "l2": "trước khi ăn", "t": "n" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "finger",
+      "m": [
+        {
+          "mn": "ngón tay",
+          "e": {
+            "r": "She has long fingers.",
+            "t": "Cô ấy có những ngón tay dài.",
+            "rd": [
+              { "l1": "long fingers", "l2": "những ngón tay dài", "t": "n" },
+              { "l1": "She", "l2": "Cô ấy", "t": "n" },
+              { "l1": "has", "l2": "có", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "chest",
+      "m": [
+        {
+          "mn": "ngực",
+          "e": {
+            "r": "He has a strong chest.",
+            "t": "Anh ấy có bộ ngực khỏe.",
+            "rd": [
+              { "l1": "strong chest", "l2": "bộ ngực khỏe", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" },
+              { "l1": "has", "l2": "có", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "stomach",
+      "m": [
+        {
+          "mn": "bụng/dạ dày",
+          "e": {
+            "r": "My stomach hurts.",
+            "t": "Bụng tôi bị đau.",
+            "rd": [
+              { "l1": "My stomach", "l2": "Bụng tôi", "t": "n" },
+              { "l1": "hurts", "l2": "bị đau", "t": "v" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "back",
+      "m": [
+        {
+          "mn": "lưng",
+          "e": {
+            "r": "He has back pain.",
+            "t": "Anh ấy bị đau lưng.",
+            "rd": [
+              { "l1": "back pain", "l2": "đau lưng", "t": "n" },
+              { "l1": "He", "l2": "Anh ấy", "t": "n" },
+              { "l1": "has", "l2": "có/bị", "t": "v" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
