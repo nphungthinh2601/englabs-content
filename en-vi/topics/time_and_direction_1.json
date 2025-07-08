@@ -1,0 +1,815 @@
+{
+  "id": "time_and_direction_1",
+  "ti": "Time & Direction - Thời gian & Phương hướng - Phần 1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "January",
+      "m": [
+        {
+          "mn": "tháng Một",
+          "e": {
+            "r": "I celebrate my birthday in January.",
+            "t": "Tôi tổ chức sinh nhật vào tháng Một.",
+            "rd": [
+              {
+                "l1": "I celebrate my birthday",
+                "l2": "Tôi tổ chức sinh nhật",
+                "t": "v"
+              },
+              {
+                "l1": "in January",
+                "l2": "vào tháng Một",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "February",
+      "m": [
+        {
+          "mn": "tháng Hai",
+          "e": {
+            "r": "My birthday party is held in February.",
+            "t": "Tiệc sinh nhật của tôi được tổ chức vào tháng Hai.",
+            "rd": [
+              {
+                "l1": "My birthday party",
+                "l2": "Tiệc sinh nhật của tôi",
+                "t": "n"
+              },
+              {
+                "l1": "is held",
+                "l2": "được tổ chức",
+                "t": "v"
+              },
+              {
+                "l1": "in February",
+                "l2": "vào tháng Hai",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "March",
+      "m": [
+        {
+          "mn": "tháng Ba",
+          "e": {
+            "r": "I was born in March.",
+            "t": "Tôi sinh ra vào tháng Ba.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "was born",
+                "l2": "sinh ra",
+                "t": "v"
+              },
+              {
+                "l1": "in March",
+                "l2": "vào tháng Ba",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "April",
+      "m": [
+        {
+          "mn": "tháng Tư",
+          "e": {
+            "r": "My special day occurs in April.",
+            "t": "Ngày đặc biệt của tôi diễn ra vào tháng Tư.",
+            "rd": [
+              {
+                "l1": "My special day",
+                "l2": "Ngày đặc biệt của tôi",
+                "t": "n"
+              },
+              {
+                "l1": "occurs",
+                "l2": "diễn ra",
+                "t": "v"
+              },
+              {
+                "l1": "in April",
+                "l2": "vào tháng Tư",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "May",
+      "m": [
+        {
+          "mn": "tháng Năm",
+          "e": {
+            "r": "I throw a birthday bash in May.",
+            "t": "Tôi tổ chức một bữa tiệc sinh nhật hoành tráng vào tháng Năm.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "throw a birthday bash",
+                "l2": "tổ chức một bữa tiệc sinh nhật hoành tráng",
+                "t": "v"
+              },
+              {
+                "l1": "in May",
+                "l2": "vào tháng Năm",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "June",
+      "m": [
+        {
+          "mn": "tháng Sáu",
+          "e": {
+            "r": "My birthday falls in June.",
+            "t": "Sinh nhật của tôi rơi vào tháng Sáu.",
+            "rd": [
+              {
+                "l1": "My birthday",
+                "l2": "Sinh nhật của tôi",
+                "t": "n"
+              },
+              {
+                "l1": "falls",
+                "l2": "rơi vào",
+                "t": "v"
+              },
+              {
+                "l1": "in June",
+                "l2": "vào tháng Sáu",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "July",
+      "m": [
+        {
+          "mn": "tháng Bảy",
+          "e": {
+            "r": "I mark my birthday in July.",
+            "t": "Tôi đánh dấu sinh nhật vào tháng Bảy.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "mark my birthday",
+                "l2": "đánh dấu sinh nhật",
+                "t": "v"
+              },
+              {
+                "l1": "in July",
+                "l2": "vào tháng Bảy",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "August",
+      "m": [
+        {
+          "mn": "tháng Tám",
+          "e": {
+            "r": "My birthday celebration takes place in August.",
+            "t": "Lễ kỷ niệm sinh nhật của tôi diễn ra vào tháng Tám.",
+            "rd": [
+              {
+                "l1": "My birthday celebration",
+                "l2": "Lễ kỷ niệm sinh nhật của tôi",
+                "t": "n"
+              },
+              {
+                "l1": "takes place",
+                "l2": "diễn ra",
+                "t": "v"
+              },
+              {
+                "l1": "in August",
+                "l2": "vào tháng Tám",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "September",
+      "m": [
+        {
+          "mn": "tháng Chín",
+          "e": {
+            "r": "I commemorate my birthday in September.",
+            "t": "Tôi kỷ niệm sinh nhật vào tháng Chín.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "commemorate my birthday",
+                "l2": "kỷ niệm sinh nhật",
+                "t": "v"
+              },
+              {
+                "l1": "in September",
+                "l2": "vào tháng Chín",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "October",
+      "m": [
+        {
+          "mn": "tháng Mười",
+          "e": {
+            "r": "My birthday arrives in October.",
+            "t": "Sinh nhật của tôi đến vào tháng Mười.",
+            "rd": [
+              {
+                "l1": "My birthday",
+                "l2": "Sinh nhật của tôi",
+                "t": "n"
+              },
+              {
+                "l1": "arrives",
+                "l2": "đến",
+                "t": "v"
+              },
+              {
+                "l1": "in October",
+                "l2": "vào tháng Mười",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "November",
+      "m": [
+        {
+          "mn": "tháng Mười Một",
+          "e": {
+            "r": "I have my birthday in November.",
+            "t": "Tôi có sinh nhật vào tháng Mười Một.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "have my birthday",
+                "l2": "có sinh nhật",
+                "t": "v"
+              },
+              {
+                "l1": "in November",
+                "l2": "vào tháng Mười Một",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "December",
+      "m": [
+        {
+          "mn": "tháng Mười Hai",
+          "e": {
+            "r": "My birthday happens in December.",
+            "t": "Sinh nhật của tôi diễn ra vào tháng Mười Hai.",
+            "rd": [
+              {
+                "l1": "My birthday",
+                "l2": "Sinh nhật của tôi",
+                "t": "n"
+              },
+              {
+                "l1": "happens",
+                "l2": "diễn ra",
+                "t": "v"
+              },
+              {
+                "l1": "in December",
+                "l2": "vào tháng Mười Hai",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Monday",
+      "m": [
+        {
+          "mn": "thứ Hai",
+          "e": {
+            "r": "I attend classes on Monday.",
+            "t": "Tôi tham gia các lớp học vào thứ Hai.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "attend classes",
+                "l2": "tham gia các lớp học",
+                "t": "v"
+              },
+              {
+                "l1": "on Monday",
+                "l2": "vào thứ Hai",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Tuesday",
+      "m": [
+        {
+          "mn": "thứ Ba",
+          "e": {
+            "r": "I head to school on Tuesday.",
+            "t": "Tôi đến trường vào thứ Ba.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "head to school",
+                "l2": "đến trường",
+                "t": "v"
+              },
+              {
+                "l1": "on Tuesday",
+                "l2": "vào thứ Ba",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Wednesday",
+      "m": [
+        {
+          "mn": "thứ Tư",
+          "e": {
+            "r": "I have lessons on Wednesday.",
+            "t": "Tôi có các buổi học vào thứ Tư.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "have lessons",
+                "l2": "có các buổi học",
+                "t": "v"
+              },
+              {
+                "l1": "on Wednesday",
+                "l2": "vào thứ Tư",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Thursday",
+      "m": [
+        {
+          "mn": "thứ Năm",
+          "e": {
+            "r": "I study at school on Thursday.",
+            "t": "Tôi học ở trường vào thứ Năm.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "study at school",
+                "l2": "học ở trường",
+                "t": "v"
+              },
+              {
+                "l1": "on Thursday",
+                "l2": "vào thứ Năm",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Friday",
+      "m": [
+        {
+          "mn": "thứ Sáu",
+          "e": {
+            "r": "I go to my classes on Friday.",
+            "t": "Tôi đi đến các lớp học vào thứ Sáu.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "go to my classes",
+                "l2": "đi đến các lớp học",
+                "t": "v"
+              },
+              {
+                "l1": "on Friday",
+                "l2": "vào thứ Sáu",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Saturday",
+      "m": [
+        {
+          "mn": "thứ Bảy",
+          "e": {
+            "r": "I participate in school activities on Saturday.",
+            "t": "Tôi tham gia các hoạt động ở trường vào thứ Bảy.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "participate in school activities",
+                "l2": "tham gia các hoạt động ở trường",
+                "t": "v"
+              },
+              {
+                "l1": "on Saturday",
+                "l2": "vào thứ Bảy",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Sunday",
+      "m": [
+        {
+          "mn": "Chủ nhật",
+          "e": {
+            "r": "I visit my school for events on Sunday.",
+            "t": "Tôi đến trường tham gia các sự kiện vào Chủ nhật.",
+            "rd": [
+              {
+                "l1": "I",
+                "l2": "Tôi",
+                "t": "n"
+              },
+              {
+                "l1": "visit my school for events",
+                "l2": "đến trường tham gia các sự kiện",
+                "t": "v"
+              },
+              {
+                "l1": "on Sunday",
+                "l2": "vào Chủ nhật",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Spring",
+      "m": [
+        {
+          "mn": "mùa xuân",
+          "e": {
+            "r": "Flowers blossom in spring.",
+            "t": "Hoa nở rộ vào mùa xuân.",
+            "rd": [
+              {
+                "l1": "Flowers",
+                "l2": "Hoa",
+                "t": "n"
+              },
+              {
+                "l1": "blossom",
+                "l2": "nở rộ",
+                "t": "v"
+              },
+              {
+                "l1": "in spring",
+                "l2": "vào mùa xuân",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Summer",
+      "m": [
+        {
+          "mn": "mùa hè",
+          "e": {
+            "r": "We travel to the beach in summer.",
+            "t": "Chúng tôi đi du lịch đến bãi biển vào mùa hè.",
+            "rd": [
+              {
+                "l1": "We",
+                "l2": "Chúng tôi",
+                "t": "n"
+              },
+              {
+                "l1": "travel to the beach",
+                "l2": "đi du lịch đến bãi biển",
+                "t": "v"
+              },
+              {
+                "l1": "in summer",
+                "l2": "vào mùa hè",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Fall",
+      "m": [
+        {
+          "mn": "mùa thu (Mỹ-Anh)",
+          "e": {
+            "r": "The weather becomes cool in fall.",
+            "t": "Thời tiết trở nên mát mẻ vào mùa thu.",
+            "rd": [
+              {
+                "l1": "The weather",
+                "l2": "Thời tiết",
+                "t": "n"
+              },
+              {
+                "l1": "becomes cool",
+                "l2": "trở nên mát mẻ",
+                "t": "v"
+              },
+              {
+                "l1": "in fall",
+                "l2": "vào mùa thu",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Autumn",
+      "m": [
+        {
+          "mn": "mùa thu (Anh-Anh)",
+          "e": {
+            "r": "Leaves drift down in autumn.",
+            "t": "Lá rơi lả tả vào mùa thu.",
+            "rd": [
+              {
+                "l1": "Leaves",
+                "l2": "Lá",
+                "t": "n"
+              },
+              {
+                "l1": "drift down",
+                "l2": "rơi lả tả",
+                "t": "v"
+              },
+              {
+                "l1": "in autumn",
+                "l2": "vào mùa thu",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Winter",
+      "m": [
+        {
+          "mn": "mùa đông",
+          "e": {
+            "r": "Snow frequently falls in winter.",
+            "t": "Tuyết thường rơi vào mùa đông.",
+            "rd": [
+              {
+                "l1": "Snow",
+                "l2": "Tuyết",
+                "t": "n"
+              },
+              {
+                "l1": "frequently falls",
+                "l2": "thường rơi",
+                "t": "v"
+              },
+              {
+                "l1": "in winter",
+                "l2": "vào mùa đông",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "North",
+      "m": [
+        {
+          "mn": "hướng Bắc",
+          "e": {
+            "r": "They reside in the North.",
+            "t": "Họ cư trú ở miền Bắc.",
+            "rd": [
+              {
+                "l1": "They",
+                "l2": "Họ",
+                "t": "n"
+              },
+              {
+                "l1": "reside",
+                "l2": "cư trú",
+                "t": "v"
+              },
+              {
+                "l1": "in the North",
+                "l2": "ở miền Bắc",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "South",
+      "m": [
+        {
+          "mn": "hướng Nam",
+          "e": {
+            "r": "They dwell in the South.",
+            "t": "Họ sinh sống ở miền Nam.",
+            "rd": [
+              {
+                "l1": "They",
+                "l2": "Họ",
+                "t": "n"
+              },
+              {
+                "l1": "dwell",
+                "l2": "sinh sống",
+                "t": "v"
+              },
+              {
+                "l1": "in the South",
+                "l2": "ở miền Nam",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "East",
+      "m": [
+        {
+          "mn": "hướng Đông",
+          "e": {
+            "r": "They settle in the East.",
+            "t": "Họ định cư ở miền Đông.",
+            "rd": [
+              {
+                "l1": "They",
+                "l2": "Họ",
+                "t": "n"
+              },
+              {
+                "l1": "settle",
+                "l2": "định cư",
+                "t": "v"
+              },
+              {
+                "l1": "in the East",
+                "l2": "ở miền Đông",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "West",
+      "m": [
+        {
+          "mn": "hướng Tây",
+          "e": {
+            "r": "They inhabit the West.",
+            "t": "Họ sinh sống ở miền Tây.",
+            "rd": [
+              {
+                "l1": "They",
+                "l2": "Họ",
+                "t": "n"
+              },
+              {
+                "l1": "inhabit",
+                "l2": "sinh sống",
+                "t": "v"
+              },
+              {
+                "l1": "in the West",
+                "l2": "ở miền Tây",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
