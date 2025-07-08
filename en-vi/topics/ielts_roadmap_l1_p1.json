@@ -1,0 +1,961 @@
+{
+  "id": "ielts_roadmap_1_1",
+  "ti": "IELTS L1.1",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "bark",
+      "m": [
+        {
+          "mn": "sủa",
+          "e": {
+            "r": "The dog barked at the mailman.",
+            "t": "Con chó sủa vào người đưa thư.",
+            "rd": [
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              },
+              {
+                "l1": "barked",
+                "l2": "sủa",
+                "t": "b"
+              },
+              {
+                "l1": "mailman",
+                "l2": "người đưa thư",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "rather",
+      "m": [
+        {
+          "mn": "khá là",
+          "e": {
+            "r": "I got up rather late this morning.",
+            "t": "Tôi đã thức dậy khá là trễ sáng nay.",
+            "rd": [
+              {
+                "l1": "got up",
+                "l2": "thức dậy",
+                "t": "v"
+              },
+              {
+                "l1": "rather",
+                "l2": "khá là",
+                "t": "adj"
+              },
+              {
+                "l1": "late",
+                "l2": "trễ",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "mailman",
+      "m": [
+        {
+          "mn": "người đưa thư",
+          "e": {
+            "r": "The dog barked at the mailman.",
+            "t": "Con chó sủa vào người đưa thư.",
+            "rd": [
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              },
+              {
+                "l1": "barked",
+                "l2": "sủa",
+                "t": "b"
+              },
+              {
+                "l1": "mailman",
+                "l2": "người đưa thư",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "trapper",
+      "m": [
+        {
+          "mn": "người đặt bẫy",
+          "e": {
+            "r": "The trapper caught a deer.",
+            "t": "Người đặt bẫy đã bắt được một con nai.",
+            "rd": [
+              {
+                "l1": "trapper",
+                "l2": "người đặt bẫy",
+                "t": "n"
+              },
+              {
+                "l1": "caught",
+                "l2": "đã bắt được",
+                "t": "v"
+              },
+              {
+                "l1": "deer",
+                "l2": "con nai",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "deer",
+      "m": [
+        {
+          "mn": "con nai",
+          "e": {
+            "r": "The trapper caught a deer.",
+            "t": "Người đặt bẫy đã bắt được một con nai.",
+            "rd": [
+              {
+                "l1": "trapper",
+                "l2": "người đặt bẫy",
+                "t": "n"
+              },
+              {
+                "l1": "caught",
+                "l2": "đã bắt được",
+                "t": "v"
+              },
+              {
+                "l1": "deer",
+                "l2": "con nai",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "skin",
+      "m": [
+        {
+          "mn": "lột da",
+          "e": {
+            "r": "He skinned the deer with a knife.",
+            "t": "Anh ta lột da con nai bằng một con dao.",
+            "rd": [
+              {
+                "l1": "skinned",
+                "l2": "lột da",
+                "t": "v"
+              },
+              {
+                "l1": "deer",
+                "l2": "con nai",
+                "t": "n"
+              },
+              {
+                "l1": "knife",
+                "l2": "con dao",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "meat",
+      "m": [
+        {
+          "mn": "thịt",
+          "e": {
+            "r": "He cooked some meat for dinner with his family.",
+            "t": "Anh ấy nấu một ít thịt cho bữa tối cùng gia đình.",
+            "rd": [
+              {
+                "l1": "cooked",
+                "l2": "nấu",
+                "t": "v"
+              },
+              {
+                "l1": "meat",
+                "l2": "thịt",
+                "t": "n"
+              },
+              {
+                "l1": "dinner",
+                "l2": "bữa tối",
+                "t": "n"
+              },
+              {
+                "l1": "family",
+                "l2": "gia đình",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "meal",
+      "m": [
+        {
+          "mn": "bữa ăn",
+          "e": {
+            "r": "They enjoyed a delicious meal at the new restaurant.",
+            "t": "Họ đã thưởng thức một bữa ăn ngon tại nhà hàng mới.",
+            "rd": [
+              {
+                "l1": "enjoyed",
+                "l2": "đã thưởng thức",
+                "t": "v"
+              },
+              {
+                "l1": "meal",
+                "l2": "bữa ăn",
+                "t": "n"
+              },
+              {
+                "l1": "restaurant",
+                "l2": "nhà hàng",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "collar",
+      "m": [
+        {
+          "mn": "vòng cổ (cho động vật)",
+          "e": {
+            "r": "She bought the dog a red collar.",
+            "t": "Cô ấy đã mua cho con chó một cái vòng cổ màu đỏ.",
+            "rd": [
+              {
+                "l1": "bought",
+                "l2": "đã mua",
+                "t": "v"
+              },
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              },
+              {
+                "l1": "collar",
+                "l2": "vòng cổ",
+                "t": "n"
+              },
+              {
+                "l1": "red",
+                "l2": "màu đỏ",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "trick",
+      "m": [
+        {
+          "mn": "mẹo; trò (ảo thuật, huấn luyện)",
+          "e": {
+            "r": "She taught the dog some neat tricks.",
+            "t": "Cô ấy đã dạy cho con chó vài trò hay.",
+            "rd": [
+              {
+                "l1": "taught",
+                "l2": "đã dạy",
+                "t": "v"
+              },
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              },
+              {
+                "l1": "tricks",
+                "l2": "trò hay",
+                "t": "n"
+              },
+              {
+                "l1": "neat",
+                "l2": "hay",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "mean",
+      "m": [
+        {
+          "mn": "hung dữ; xấu tính",
+          "e": {
+            "r": "The dog was mean.",
+            "t": "Con chó thì hung dữ.",
+            "rd": [
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              },
+              {
+                "l1": "was",
+                "l2": "thì",
+                "t": "v"
+              },
+              {
+                "l1": "mean",
+                "l2": "hung dữ",
+                "t": "adj"
+              }
+            ]
+          }
+        },
+        {
+          "mn": "có nghĩa là",
+          "e": {
+            "r": "What does this word mean?",
+            "t": "Từ này có nghĩa là gì?",
+            "rd": [
+              {
+                "l1": "mean",
+                "l2": "có nghĩa là",
+                "t": "v"
+              },
+              {
+                "l1": "word",
+                "l2": "từ",
+                "t": "n"
+              }
+            ]
+          }
+        },
+        {
+          "mn": "keo kiệt",
+          "e": {
+            "r": "He is too mean to give anyone a tip.",
+            "t": "Anh ta quá keo kiệt để cho ai tiền boa.",
+            "rd": [
+              {
+                "l1": "mean",
+                "l2": "keo kiệt",
+                "t": "adj"
+              },
+              {
+                "l1": "tip",
+                "l2": "tiền boa",
+                "t": "n"
+              }
+            ]
+          }
+        },
+        {
+          "mn": "trung bình (toán học)",
+          "e": {
+            "r": "The mean of 5, 10, and 15 is 10.",
+            "t": "Giá trị trung bình của 5, 10 và 15 là 10.",
+            "rd": [
+              {
+                "l1": "mean",
+                "l2": "giá trị trung bình",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              }
+            ]
+          }
+        },
+        {
+          "mn": "tuyệt vời (thông tục, nghĩa tích cực)",
+          "e": {
+            "r": "She plays a mean guitar.",
+            "t": "Cô ấy chơi guitar rất đỉnh.",
+            "rd": [
+              {
+                "l1": "plays",
+                "l2": "chơi",
+                "t": "v"
+              },
+              {
+                "l1": "mean",
+                "l2": "rất đỉnh",
+                "t": "adj"
+              },
+              {
+                "l1": "guitar",
+                "l2": "guitar",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "purse",
+      "m": [
+        {
+          "mn": "cái ví (túi xách nhỏ của phụ nữ)",
+          "e": {
+            "r": "That purse looks pretty.",
+            "t": "Cái ví đó trông đẹp.",
+            "rd": [
+              {
+                "l1": "purse",
+                "l2": "cái ví",
+                "t": "n"
+              },
+              {
+                "l1": "looks",
+                "l2": "trông",
+                "t": "v"
+              },
+              {
+                "l1": "pretty",
+                "l2": "đẹp",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "dizzy",
+      "m": [
+        {
+          "mn": "chóng mặt",
+          "e": {
+            "r": "The woman feels dizzy.",
+            "t": "Người phụ nữ cảm thấy chóng mặt.",
+            "rd": [
+              {
+                "l1": "woman",
+                "l2": "người phụ nữ",
+                "t": "n"
+              },
+              {
+                "l1": "feels",
+                "l2": "cảm thấy",
+                "t": "v"
+              },
+              {
+                "l1": "dizzy",
+                "l2": "chóng mặt",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "remain",
+      "m": [
+        {
+          "mn": "vẫn; duy trì",
+          "e": {
+            "r": "The man remains single.",
+            "t": "Người đàn ông vẫn còn độc thân.",
+            "rd": [
+              {
+                "l1": "man",
+                "l2": "người đàn ông",
+                "t": "n"
+              },
+              {
+                "l1": "remains",
+                "l2": "vẫn",
+                "t": "v"
+              },
+              {
+                "l1": "single",
+                "l2": "độc thân",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "prove",
+      "m": [
+        {
+          "mn": "chứng tỏ; tỏ ra",
+          "e": {
+            "r": "The drug proved effective.",
+            "t": "Loại thuốc đó tỏ ra hiệu quả.",
+            "rd": [
+              {
+                "l1": "drug",
+                "l2": "loại thuốc",
+                "t": "n"
+              },
+              {
+                "l1": "proved",
+                "l2": "tỏ ra",
+                "t": "v"
+              },
+              {
+                "l1": "effective",
+                "l2": "hiệu quả",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "effective",
+      "m": [
+        {
+          "mn": "hiệu quả",
+          "e": {
+            "r": "The drug proved effective.",
+            "t": "Loại thuốc đó tỏ ra hiệu quả.",
+            "rd": [
+              {
+                "l1": "drug",
+                "l2": "loại thuốc",
+                "t": "n"
+              },
+              {
+                "l1": "proved",
+                "l2": "tỏ ra",
+                "t": "v"
+              },
+              {
+                "l1": "effective",
+                "l2": "hiệu quả",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "quite",
+      "m": [
+        {
+          "mn": "rất; thật là (dùng để nhấn mạnh)",
+          "e": {
+            "r": "Your friend appears quite a gentleman.",
+            "t": "Bạn của bạn trông thật là một quý ông.",
+            "rd": [
+              {
+                "l1": "friend",
+                "l2": "bạn",
+                "t": "n"
+              },
+              {
+                "l1": "appears",
+                "l2": "trông có vẻ",
+                "t": "v"
+              },
+              {
+                "l1": "quite",
+                "l2": "thật là",
+                "t": "adv"
+              },
+              {
+                "l1": "gentleman",
+                "l2": "quý ông",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "friends for life",
+      "m": [
+        {
+          "mn": "bạn suốt đời",
+          "e": {
+            "r": "The schoolmates stayed friends for life.",
+            "t": "Những người bạn học vẫn là bạn suốt đời.",
+            "rd": [
+              {
+                "l1": "schoolmates",
+                "l2": "bạn học",
+                "t": "n"
+              },
+              {
+                "l1": "stayed",
+                "l2": "vẫn là",
+                "t": "v"
+              },
+              {
+                "l1": "friends for life",
+                "l2": "bạn suốt đời",
+                "t": "phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "poverty",
+      "m": [
+        {
+          "mn": "sự nghèo khổ",
+          "e": {
+            "r": "The man's poverty kept him single.",
+            "t": "Sự nghèo khổ của người đàn ông khiến anh ta vẫn độc thân.",
+            "rd": [
+              {
+                "l1": "man",
+                "l2": "người đàn ông",
+                "t": "n"
+              },
+              {
+                "l1": "poverty",
+                "l2": "sự nghèo khổ",
+                "t": "n"
+              },
+              {
+                "l1": "kept",
+                "l2": "khiến ... vẫn",
+                "t": "v"
+              },
+              {
+                "l1": "single",
+                "l2": "độc thân",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "proclaim",
+      "m": [
+        {
+          "mn": "tuyên bố; công bố",
+          "e": {
+            "r": "The doctor proclaimed the drug effective.",
+            "t": "Bác sĩ tuyên bố loại thuốc có hiệu quả.",
+            "rd": [
+              {
+                "l1": "doctor",
+                "l2": "bác sĩ",
+                "t": "n"
+              },
+              {
+                "l1": "proclaimed",
+                "l2": "tuyên bố",
+                "t": "v"
+              },
+              {
+                "l1": "drug",
+                "l2": "loại thuốc",
+                "t": "n"
+              },
+              {
+                "l1": "effective",
+                "l2": "có hiệu quả",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "consider",
+      "m": [
+        {
+          "mn": "xem là; cho rằng",
+          "e": {
+            "r": "I consider your friend quite a gentleman.",
+            "t": "Tôi xem bạn của bạn là một quý ông thực thụ.",
+            "rd": [
+              {
+                "l1": "consider",
+                "l2": "xem là",
+                "t": "v"
+              },
+              {
+                "l1": "friend",
+                "l2": "bạn",
+                "t": "n"
+              },
+              {
+                "l1": "quite",
+                "l2": "thực thụ",
+                "t": "adv"
+              },
+              {
+                "l1": "gentleman",
+                "l2": "quý ông",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "high spirits",
+      "m": [
+        {
+          "mn": "tinh thần phấn chấn; tâm trạng vui vẻ",
+          "e": {
+            "r": "John seems in high spirits.",
+            "t": "John có vẻ đang rất phấn chấn.",
+            "rd": [
+              {
+                "l1": "John",
+                "l2": "John",
+                "t": "n"
+              },
+              {
+                "l1": "seems",
+                "l2": "có vẻ",
+                "t": "v"
+              },
+              {
+                "l1": "in high spirits",
+                "l2": "rất phấn chấn",
+                "t": "phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "elegant",
+      "m": [
+        {
+          "mn": "thanh lịch, tao nhã",
+          "e": {
+            "r": "I look better now, with these elegant glasses.",
+            "t": "Tôi trông đẹp hơn bây giờ, với cặp kính thanh lịch này.",
+            "rd": [
+              {
+                "l1": "look better",
+                "l2": "trông đẹp hơn",
+                "t": "v"
+              },
+              {
+                "l1": "now",
+                "l2": "bây giờ",
+                "t": "adv"
+              },
+              {
+                "l1": "elegant",
+                "l2": "thanh lịch",
+                "t": "adj"
+              },
+              {
+                "l1": "glasses",
+                "l2": "cặp kính",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "locksmith",
+      "m": [
+        {
+          "mn": "thợ sửa khóa",
+          "e": {
+            "r": "The locksmith fixed the lock quickly.",
+            "t": "Người thợ sửa khóa đã sửa ổ khóa một cách nhanh chóng.",
+            "rd": [
+              {
+                "l1": "locksmith",
+                "l2": "thợ sửa khóa",
+                "t": "n"
+              },
+              {
+                "l1": "fixed",
+                "l2": "đã sửa",
+                "t": "v"
+              },
+              {
+                "l1": "lock",
+                "l2": "ổ khóa",
+                "t": "n"
+              },
+              {
+                "l1": "quickly",
+                "l2": "một cách nhanh chóng",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "burglar-proof",
+      "m": [
+        {
+          "mn": "chống trộm",
+          "e": {
+            "r": "He made the lock burglar-proof.",
+            "t": "Anh ấy đã làm cho ổ khóa chống trộm.",
+            "rd": [
+              {
+                "l1": "made",
+                "l2": "đã làm cho",
+                "t": "v"
+              },
+              {
+                "l1": "lock",
+                "l2": "ổ khóa",
+                "t": "n"
+              },
+              {
+                "l1": "burglar-proof",
+                "l2": "chống trộm",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ambassador",
+      "m": [
+        {
+          "mn": "ngài đại sứ",
+          "e": {
+            "r": "The ambassador gave Andy a dog.",
+            "t": "Ngài đại sứ đã tặng Andy một con chó.",
+            "rd": [
+              {
+                "l1": "ambassador",
+                "l2": "đại sứ",
+                "t": "n"
+              },
+              {
+                "l1": "gave",
+                "l2": "đã tặng",
+                "t": "v"
+              },
+              {
+                "l1": "Andy",
+                "l2": "Andy",
+                "t": "n"
+              },
+              {
+                "l1": "dog",
+                "l2": "con chó",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "burn",
+      "m": [
+        {
+          "mn": "cháy, thiêu rụi, vết bỏng",
+          "e": {
+            "r": "However, it burned down during an attack of bandits.",
+            "t": "Tuy nhiên, nó đã bị thiêu rụi trong một cuộc tấn công của bọn cướp.",
+            "rd": [
+              {
+                "l1": "burned down",
+                "l2": "bị thiêu rụi",
+                "t": "v"
+              },
+              {
+                "l1": "during",
+                "l2": "trong suốt",
+                "t": "prep"
+              },
+              {
+                "l1": "an attack",
+                "l2": "một cuộc tấn công",
+                "t": "n"
+              },
+              {
+                "l1": "bandits",
+                "l2": "bọn cướp",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "bandit",
+      "m": [
+        {
+          "mn": "tên cướp, kẻ cướp",
+          "e": {
+            "r": "However, it burned down during an attack of bandits.",
+            "t": "Tuy nhiên, nó đã bị thiêu rụi trong một cuộc tấn công của bọn cướp.",
+            "rd": [
+              {
+                "l1": "burned down",
+                "l2": "bị thiêu rụi",
+                "t": "v"
+              },
+              {
+                "l1": "during",
+                "l2": "trong suốt",
+                "t": "prep"
+              },
+              {
+                "l1": "an attack",
+                "l2": "một cuộc tấn công",
+                "t": "n"
+              },
+              {
+                "l1": "bandits",
+                "l2": "bọn cướp",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

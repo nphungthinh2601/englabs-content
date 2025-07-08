@@ -1,0 +1,158 @@
+{
+  "id": "ielts_roadmap_1_1",
+  "ti": "IELTS - Cấu trúc câu",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "S V",
+      "m": [
+        {
+          "mn": "Cấu trúc câu S V",
+          "e": {
+            "r": "The dog barked at the mailman.",
+            "t": "(The dog / S) - (barked / V)",
+            "rd": [
+              {
+                "l1": "The dog",
+                "l2": "S - Con chó",
+                "t": "n"
+              },
+              {
+                "l1": "barked",
+                "l2": "V - sủa",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "S V O",
+      "m": [
+        {
+          "mn": "Cấu trúc câu S V O - O là tân ngữ nhận hành động từ S",
+          "e": {
+            "r": "The trapper caught a deer",
+            "t": "(The trapper / S) - (caught / V) - (a deer / O)",
+            "rd": [
+              {
+                "l1": "The trapper",
+                "l2": "S - Thợ đặt bẫy",
+                "t": "n"
+              },
+              {
+                "l1": "caught",
+                "l2": "V - bắt / bắt gặp",
+                "t": "v"
+              },
+              {
+                "l1": "a deer",
+                "l2": "O - một con nai",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "S V C",
+      "m": [
+        {
+          "mn": "Cấu trúc câu S V C - V là động từ không tạo ra hành động. V có thể là to be hoặc các động từ tương tự có thể thay thế to be và gần giống nghĩa như look, seem, sound, taste, apppear, turn, feel, become, prove, ...",
+          "e": {
+            "r": "The drug proved effective.",
+            "t": "(The drug / S) - (proved / V) - (effective / C)",
+            "rd": [
+              {
+                "l1": "The drug",
+                "l2": "S - Thuốc",
+                "t": "n"
+              },
+              {
+                "l1": "proved",
+                "l2": "V - chứng tỏ",
+                "t": "v"
+              },
+              {
+                "l1": "effective",
+                "l2": "C - hiệu quả",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "S V O O",
+      "m": [
+        {
+          "mn": "Cấu trúc câu S V O O - S tác động lên O O cùng lúc",
+          "e": {
+            "r": "She bought the dog a red collar.",
+            "t": "(She / S) - (bought / V) - (the dog / O) - (a red collar / O)",
+            "rd": [
+              {
+                "l1": "She",
+                "l2": "S - Cô ấy",
+                "t": "n"
+              },
+              {
+                "l1": "bought",
+                "l2": "V - mua",
+                "t": "v"
+              },
+              {
+                "l1": "the dog",
+                "l2": "O - con chó",
+                "t": "n"
+              },
+              {
+                "l1": "a red collar",
+                "l2": "O - một cái vòng cổ màu đỏ",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "S V O C",
+      "m": [
+        {
+          "mn": "Cấu trúc câu S V O C - Vì V mà O có tính chất C hoặc O biến thành C",
+          "e": {
+            "r": "The doctor proclaimed the drug effective.",
+            "t": "(The doctor / S) - (proclaimed / V) - (the drug / O) - (effective / C)",
+            "rd": [
+              {
+                "l1": "The doctor",
+                "l2": "S - Bác sĩ",
+                "t": "n"
+              },
+              {
+                "l1": "proclaimed",
+                "l2": "V - tuyên bố",
+                "t": "v"
+              },
+              {
+                "l1": "the drug",
+                "l2": "O - con chó",
+                "t": "n"
+              },
+              {
+                "l1": "effective",
+                "l2": "C - hiệu quả",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
