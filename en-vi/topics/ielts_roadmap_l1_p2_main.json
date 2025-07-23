@@ -67,10 +67,10 @@
       ]
     },
     {
-      "w": "Countable - Đếm được",
+      "w": "Countable",
       "m": [
         {
-          "mn": "Số ít BẮT BUỘC phải có định từ, số nhiều KHÔNG bắt buộc. Là vật có hình dạng, đơn vị đo lường,...",
+          "mn": "Đếm được - Số ít BẮT BUỘC phải có định từ, số nhiều KHÔNG bắt buộc. Là vật có hình dạng, đơn vị đo lường,...",
           "e": {
             "r": "a boy, a flower, dogs, tables",
             "t": "",
@@ -101,10 +101,10 @@
       ]
     },
     {
-      "w": "Uncountable - Không đếm được",
+      "w": "Uncountable ",
       "m": [
         {
-          "mn": "KHÔNG bắt buộc phải có định từ. Là vật liệu, trừu tượng, tên riêng, danh động từ,...",
+          "mn": "Không đếm được - KHÔNG bắt buộc phải có định từ. Là vật liệu, trừu tượng, tên riêng, danh động từ,...",
           "e": {
             "r": "water, intelligence, Bill Gates, smoking",
             "t": "",
@@ -230,7 +230,7 @@
           }
         },
         {
-          "mn": "Nhắc lại n lần tiếp: another student, other student - Giản lược: another, other, others",
+          "mn": "Nhắc lại n lần tiếp: another student, other student, other students - Giản lược: another, other, others",
           "e": {
             "r": "",
             "t": "",

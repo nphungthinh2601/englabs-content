@@ -1,0 +1,1094 @@
+{
+  "id": "ielts_roadmap_1_3",
+  "ti": "IELTS L1.3",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "ear",
+      "m": [
+        {
+          "mn": "tai",
+          "e": {
+            "r": "He whispered something in her ear.",
+            "t": "Anh ấy thì thầm điều gì đó vào tai cô ấy.",
+            "rd": [
+              {
+                "l1": "whispered",
+                "l2": "thì thầm",
+                "t": "v"
+              },
+              {
+                "l1": "something",
+                "l2": "điều gì đó",
+                "t": "n"
+              },
+              {
+                "l1": "in her ear",
+                "l2": "vào tai cô ấy",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "imagination",
+      "m": [
+        {
+          "mn": "trí tưởng tượng",
+          "e": {
+            "r": "Children often have a vivid imagination.",
+            "t": "Trẻ em thường có trí tưởng tượng phong phú.",
+            "rd": [
+              {
+                "l1": "Children",
+                "l2": "Trẻ em",
+                "t": "n"
+              },
+              {
+                "l1": "have",
+                "l2": "có",
+                "t": "v"
+              },
+              {
+                "l1": "a vivid imagination",
+                "l2": "trí tưởng tượng phong phú",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "piece",
+      "m": [
+        {
+          "mn": "mảnh; miếng",
+          "e": {
+            "r": "She gave me a piece of cake.",
+            "t": "Cô ấy đưa tôi một miếng bánh.",
+            "rd": [
+              {
+                "l1": "gave",
+                "l2": "đưa",
+                "t": "v"
+              },
+              {
+                "l1": "a piece",
+                "l2": "một miếng",
+                "t": "n"
+              },
+              {
+                "l1": "of cake",
+                "l2": "bánh",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "doubt",
+      "m": [
+        {
+          "mn": "sự nghi ngờ",
+          "e": {
+            "r": "There is no doubt that she will succeed.",
+            "t": "Không có nghi ngờ gì rằng cô ấy sẽ thành công.",
+            "rd": [
+              {
+                "l1": "no doubt",
+                "l2": "không nghi ngờ gì",
+                "t": "n"
+              },
+              {
+                "l1": "she",
+                "l2": "cô ấy",
+                "t": "pron"
+              },
+              {
+                "l1": "will succeed",
+                "l2": "sẽ thành công",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "species",
+      "m": [
+        {
+          "mn": "loài (sinh vật)",
+          "e": {
+            "r": "There are thousands of bird species in the world.",
+            "t": "Có hàng ngàn loài chim trên thế giới.",
+            "rd": [
+              {
+                "l1": "thousands of",
+                "l2": "hàng ngàn",
+                "t": "quant"
+              },
+              {
+                "l1": "bird species",
+                "l2": "loài chim",
+                "t": "n"
+              },
+              {
+                "l1": "in the world",
+                "l2": "trên thế giới",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "endangered",
+      "m": [
+        {
+          "mn": "có nguy cơ tuyệt chủng",
+          "e": {
+            "r": "Tigers are classified as endangered animals.",
+            "t": "Hổ được xếp vào nhóm động vật có nguy cơ tuyệt chủng.",
+            "rd": [
+              {
+                "l1": "tigers",
+                "l2": "hổ",
+                "t": "n"
+              },
+              {
+                "l1": "are classified as",
+                "l2": "được xếp vào nhóm",
+                "t": "v"
+              },
+              {
+                "l1": "endangered",
+                "l2": "có nguy cơ tuyệt chủng",
+                "t": "adj"
+              },
+              {
+                "l1": "animals",
+                "l2": "động vật",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "artery",
+      "m": [
+        {
+          "mn": "động mạch",
+          "e": {
+            "r": "The doctor explained how the artery carries blood to the heart.",
+            "t": "Bác sĩ giải thích cách động mạch đưa máu đến tim.",
+            "rd": [
+              {
+                "l1": "the doctor",
+                "l2": "bác sĩ",
+                "t": "n"
+              },
+              {
+                "l1": "explained",
+                "l2": "giải thích",
+                "t": "v"
+              },
+              {
+                "l1": "artery",
+                "l2": "động mạch",
+                "t": "n"
+              },
+              {
+                "l1": "carries blood",
+                "l2": "đưa máu",
+                "t": "v"
+              },
+              {
+                "l1": "to the heart",
+                "l2": "đến tim",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "blood",
+      "m": [
+        {
+          "mn": "máu",
+          "e": {
+            "r": "Blood circulates through the entire body.",
+            "t": "Máu lưu thông khắp cơ thể.",
+            "rd": [
+              {
+                "l1": "blood",
+                "l2": "máu",
+                "t": "n"
+              },
+              {
+                "l1": "circulates",
+                "l2": "lưu thông",
+                "t": "v"
+              },
+              {
+                "l1": "through",
+                "l2": "khắp",
+                "t": "prep"
+              },
+              {
+                "l1": "the entire body",
+                "l2": "cơ thể",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "blood vessel",
+      "m": [
+        {
+          "mn": "mạch máu / tàu / bình chứa (tuỳ ngữ cảnh)",
+          "e": {
+            "r": "The surgeon repaired the damaged blood vessel.",
+            "t": "Bác sĩ phẫu thuật đã sửa chữa mạch máu bị hỏng.",
+            "rd": [
+              {
+                "l1": "the surgeon",
+                "l2": "bác sĩ phẫu thuật",
+                "t": "n"
+              },
+              {
+                "l1": "repaired",
+                "l2": "sửa chữa",
+                "t": "v"
+              },
+              {
+                "l1": "damaged",
+                "l2": "bị hỏng",
+                "t": "adj"
+              },
+              {
+                "l1": "blood vessel",
+                "l2": "mạch máu",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "fur",
+      "m": [
+        {
+          "mn": "lông (thú)",
+          "e": {
+            "r": "The cat's fur is soft and shiny.",
+            "t": "Bộ lông của con mèo thì mềm và bóng.",
+            "rd": [
+              {
+                "l1": "the cat's",
+                "l2": "của con mèo",
+                "t": "poss"
+              },
+              {
+                "l1": "fur",
+                "l2": "bộ lông",
+                "t": "n"
+              },
+              {
+                "l1": "soft",
+                "l2": "mềm",
+                "t": "adj"
+              },
+              {
+                "l1": "shiny",
+                "l2": "bóng",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "polar bear",
+      "m": [
+        {
+          "mn": "gấu Bắc Cực",
+          "e": {
+            "r": "The polar bear is well adapted to cold environments.",
+            "t": "Gấu Bắc Cực thích nghi rất tốt với môi trường lạnh.",
+            "rd": [
+              {
+                "l1": "polar bear",
+                "l2": "gấu Bắc Cực",
+                "t": "n"
+              },
+              {
+                "l1": "well adapted",
+                "l2": "thích nghi rất tốt",
+                "t": "adj"
+              },
+              {
+                "l1": "to cold environments",
+                "l2": "với môi trường lạnh",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "eclipse",
+      "m": [
+        {
+          "mn": "nhật thực / nguyệt thực",
+          "e": {
+            "r": "We watched the solar eclipse through special glasses.",
+            "t": "Chúng tôi đã quan sát nhật thực qua kính chuyên dụng.",
+            "rd": [
+              {
+                "l1": "solar eclipse",
+                "l2": "nhật thực",
+                "t": "n"
+              },
+              {
+                "l1": "watched",
+                "l2": "đã quan sát",
+                "t": "v"
+              },
+              {
+                "l1": "through special glasses",
+                "l2": "qua kính chuyên dụng",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "opposed to",
+      "m": [
+        {
+          "mn": "phản đối",
+          "e": {
+            "r": "Many citizens are opposed to the new tax law.",
+            "t": "Nhiều công dân phản đối luật thuế mới.",
+            "rd": [
+              {
+                "l1": "citizens",
+                "l2": "công dân",
+                "t": "n"
+              },
+              {
+                "l1": "are opposed to",
+                "l2": "phản đối",
+                "t": "v"
+              },
+              {
+                "l1": "the new tax law",
+                "l2": "luật thuế mới",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "giant",
+      "m": [
+        {
+          "mn": "người khổng lồ; khổng lồ",
+          "e": {
+            "r": "The little boy was scared of the giant in the story.",
+            "t": "Cậu bé nhỏ sợ người khổng lồ trong câu chuyện.",
+            "rd": [
+              {
+                "l1": "little boy",
+                "l2": "cậu bé nhỏ",
+                "t": "n"
+              },
+              {
+                "l1": "was scared of",
+                "l2": "sợ",
+                "t": "v"
+              },
+              {
+                "l1": "giant",
+                "l2": "người khổng lồ",
+                "t": "n"
+              },
+              {
+                "l1": "in the story",
+                "l2": "trong câu chuyện",
+                "t": "prep phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "despite",
+      "m": [
+        {
+          "mn": "mặc dù, bất chấp",
+          "e": {
+            "r": "Despite the rain, they continued their picnic.",
+            "t": "Mặc dù trời mưa, họ vẫn tiếp tục buổi dã ngoại.",
+            "rd": [
+              {
+                "l1": "Despite",
+                "l2": "mặc dù",
+                "t": "prep"
+              },
+              {
+                "l1": "the rain",
+                "l2": "trời mưa",
+                "t": "n"
+              },
+              {
+                "l1": "they",
+                "l2": "họ",
+                "t": "pron"
+              },
+              {
+                "l1": "continued",
+                "l2": "tiếp tục",
+                "t": "v"
+              },
+              {
+                "l1": "their picnic",
+                "l2": "buổi dã ngoại của họ",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "effort",
+      "m": [
+        {
+          "mn": "nỗ lực, cố gắng",
+          "e": {
+            "r": "Their efforts finally led to success.",
+            "t": "Những nỗ lực của họ cuối cùng đã dẫn đến thành công.",
+            "rd": [
+              {
+                "l1": "Their efforts",
+                "l2": "Những nỗ lực của họ",
+                "t": "n"
+              },
+              {
+                "l1": "finally",
+                "l2": "cuối cùng",
+                "t": "adv"
+              },
+              {
+                "l1": "led to",
+                "l2": "dẫn đến",
+                "t": "v"
+              },
+              {
+                "l1": "success",
+                "l2": "thành công",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "preserve",
+      "m": [
+        {
+          "mn": "bảo tồn",
+          "e": {
+            "r": "We must preserve our natural resources.",
+            "t": "Chúng ta phải bảo tồn tài nguyên thiên nhiên của mình.",
+            "rd": [
+              {
+                "l1": "We",
+                "l2": "Chúng ta",
+                "t": "pron"
+              },
+              {
+                "l1": "must",
+                "l2": "phải",
+                "t": "modal"
+              },
+              {
+                "l1": "preserve",
+                "l2": "bảo tồn",
+                "t": "v"
+              },
+              {
+                "l1": "natural resources",
+                "l2": "tài nguyên thiên nhiên",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "habitat",
+      "m": [
+        {
+          "mn": "môi trường sống",
+          "e": {
+            "r": "Many animals are losing their natural habitat due to deforestation.",
+            "t": "Nhiều loài động vật đang mất môi trường sống tự nhiên do nạn phá rừng.",
+            "rd": [
+              {
+                "l1": "Many animals",
+                "l2": "Nhiều loài động vật",
+                "t": "n"
+              },
+              {
+                "l1": "are losing",
+                "l2": "đang mất",
+                "t": "v"
+              },
+              {
+                "l1": "natural habitat",
+                "l2": "môi trường sống tự nhiên",
+                "t": "n"
+              },
+              {
+                "l1": "due to deforestation",
+                "l2": "do nạn phá rừng",
+                "t": "prep phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "charity",
+      "m": [
+        {
+          "mn": "tổ chức từ thiện; lòng từ thiện",
+          "e": {
+            "r": "She donated a large amount of money to charity.",
+            "t": "Cô ấy đã quyên góp một số tiền lớn cho tổ chức từ thiện.",
+            "rd": [
+              {
+                "l1": "She",
+                "l2": "Cô ấy",
+                "t": "pron"
+              },
+              {
+                "l1": "donated",
+                "l2": "đã quyên góp",
+                "t": "v"
+              },
+              {
+                "l1": "a large amount of money",
+                "l2": "một số tiền lớn",
+                "t": "n"
+              },
+              {
+                "l1": "to charity",
+                "l2": "cho tổ chức từ thiện",
+                "t": "prep phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "athlete",
+      "m": [
+        {
+          "mn": "vận động viên",
+          "e": {
+            "r": "The athlete trained hard for the upcoming Olympics.",
+            "t": "Vận động viên đã tập luyện chăm chỉ cho Thế vận hội sắp tới.",
+            "rd": [
+              {
+                "l1": "The athlete",
+                "l2": "Vận động viên",
+                "t": "n"
+              },
+              {
+                "l1": "trained hard",
+                "l2": "đã tập luyện chăm chỉ",
+                "t": "v phr"
+              },
+              {
+                "l1": "for the upcoming Olympics",
+                "l2": "cho Thế vận hội sắp tới",
+                "t": "prep phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "modest",
+      "m": [
+        {
+          "mn": "khiêm tốn",
+          "e": {
+            "r": "She is very modest about her achievements.",
+            "t": "Cô ấy rất khiêm tốn về những thành tựu của mình.",
+            "rd": [
+              {
+                "l1": "She is very modest",
+                "l2": "Cô ấy rất khiêm tốn",
+                "t": "adj phr"
+              },
+              {
+                "l1": "about her achievements",
+                "l2": "về những thành tựu của mình",
+                "t": "prep phr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "accomplishment",
+      "m": [
+        {
+          "mn": "thành tựu",
+          "e": {
+            "r": "Graduating from university was her greatest accomplishment.",
+            "t": "Tốt nghiệp đại học là thành tựu lớn nhất của cô ấy.",
+            "rd": [
+              {
+                "l1": "Graduating from university",
+                "l2": "Tốt nghiệp đại học",
+                "t": "gerund phr"
+              },
+              {
+                "l1": "was her greatest accomplishment",
+                "l2": "là thành tựu lớn nhất của cô ấy",
+                "t": "clause"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "prevent",
+      "m": [
+        {
+          "mn": "ngăn chặn",
+          "e": {
+            "r": "Vaccines help prevent the spread of disease.",
+            "t": "Vắc-xin giúp ngăn chặn sự lây lan của bệnh.",
+            "rd": [
+              {
+                "l1": "Vaccines",
+                "l2": "Vắc-xin",
+                "t": "noun"
+              },
+              {
+                "l1": "help prevent",
+                "l2": "giúp ngăn chặn",
+                "t": "verb phrase"
+              },
+              {
+                "l1": "the spread of disease",
+                "l2": "sự lây lan của bệnh",
+                "t": "noun phrase"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "disease",
+      "m": [
+        {
+          "mn": "bệnh tật",
+          "e": {
+            "r": "Heart disease is one of the leading causes of death worldwide.",
+            "t": "Bệnh tim là một trong những nguyên nhân hàng đầu gây tử vong trên toàn thế giới.",
+            "rd": [
+              {
+                "l1": "Heart disease",
+                "l2": "Bệnh tim",
+                "t": "noun phrase"
+              },
+              {
+                "l1": "is one of the leading causes",
+                "l2": "là một trong những nguyên nhân hàng đầu",
+                "t": "verb phrase"
+              },
+              {
+                "l1": "of death worldwide",
+                "l2": "gây tử vong trên toàn thế giới",
+                "t": "prepositional phrase"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "paw",
+      "m": [
+        {
+          "mn": "móng vuốt (của mèo, chó, gấu...); chân thú",
+          "e": {
+            "r": "The cat gently placed its paw on my hand.",
+            "t": "Con mèo nhẹ nhàng đặt móng vuốt của nó lên tay tôi.",
+            "rd": [
+              {
+                "l1": "The cat",
+                "l2": "Con mèo",
+                "t": "subject"
+              },
+              {
+                "l1": "gently placed",
+                "l2": "nhẹ nhàng đặt",
+                "t": "verb phrase"
+              },
+              {
+                "l1": "its paw",
+                "l2": "móng vuốt của nó",
+                "t": "object"
+              },
+              {
+                "l1": "on my hand",
+                "l2": "lên tay tôi",
+                "t": "prepositional phrase"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "beard",
+      "m": [
+        {
+          "mn": "râu",
+          "e": {
+            "r": "He trimmed his beard before the meeting.",
+            "t": "Anh ấy tỉa râu trước cuộc họp.",
+            "rd": [
+              {
+                "l1": "He",
+                "l2": "Anh ấy",
+                "t": "subject"
+              },
+              {
+                "l1": "trimmed",
+                "l2": "tỉa",
+                "t": "verb"
+              },
+              {
+                "l1": "his beard",
+                "l2": "râu của anh ấy",
+                "t": "object"
+              },
+              {
+                "l1": "before the meeting",
+                "l2": "trước cuộc họp",
+                "t": "time phrase"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ability",
+      "m": [
+        {
+          "mn": "khả năng",
+          "e": {
+            "r": "She has the ability to solve complex problems.",
+            "t": "Cô ấy có khả năng giải quyết những vấn đề phức tạp.",
+            "rd": [
+              {
+                "l1": "She",
+                "l2": "Cô ấy",
+                "t": "subject"
+              },
+              {
+                "l1": "has",
+                "l2": "có",
+                "t": "verb"
+              },
+              {
+                "l1": "the ability",
+                "l2": "khả năng",
+                "t": "noun phrase"
+              },
+              {
+                "l1": "to solve complex problems",
+                "l2": "giải quyết những vấn đề phức tạp",
+                "t": "infinitive phrase"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "diabetes",
+      "m": [
+        {
+          "mn": "bệnh tiểu đường",
+          "e": {
+            "r": "He was diagnosed with diabetes last year.",
+            "t": "Anh ấy đã được chẩn đoán mắc bệnh tiểu đường vào năm ngoái.",
+            "rd": [
+              {
+                "l1": "He",
+                "l2": "Anh ấy",
+                "t": "subject"
+              },
+              {
+                "l1": "was diagnosed with",
+                "l2": "được chẩn đoán mắc",
+                "t": "passive verb phrase"
+              },
+              {
+                "l1": "diabetes",
+                "l2": "bệnh tiểu đường",
+                "t": "noun"
+              },
+              {
+                "l1": "last year",
+                "l2": "vào năm ngoái",
+                "t": "time expression"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "decade",
+      "m": [
+        {
+          "mn": "thập kỷ",
+          "e": {
+            "r": "The city has changed a lot over the past decade.",
+            "t": "Thành phố đã thay đổi rất nhiều trong thập kỷ qua.",
+            "rd": [
+              {
+                "l1": "The city",
+                "l2": "Thành phố",
+                "t": "subject"
+              },
+              {
+                "l1": "has changed",
+                "l2": "đã thay đổi",
+                "t": "present perfect verb"
+              },
+              {
+                "l1": "a lot",
+                "l2": "rất nhiều",
+                "t": "adverbial phrase"
+              },
+              {
+                "l1": "over the past decade",
+                "l2": "trong thập kỷ qua",
+                "t": "time expression"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "predictable",
+      "m": [
+        {
+          "mn": "có thể đoán trước được",
+          "e": {
+            "r": "The ending of the movie was very predictable.",
+            "t": "Kết thúc của bộ phim rất dễ đoán.",
+            "rd": [
+              {
+                "l1": "The ending of the movie",
+                "l2": "Kết thúc của bộ phim",
+                "t": "subject"
+              },
+              {
+                "l1": "was",
+                "l2": "đã",
+                "t": "linking verb (past tense)"
+              },
+              {
+                "l1": "very predictable",
+                "l2": "rất dễ đoán",
+                "t": "adjective phrase (predicate)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "disaster",
+      "m": [
+        {
+          "mn": "thảm họa",
+          "e": {
+            "r": "The earthquake was a major disaster for the entire region.",
+            "t": "Trận động đất là một thảm họa lớn đối với toàn khu vực.",
+            "rd": [
+              {
+                "l1": "The earthquake",
+                "l2": "Trận động đất",
+                "t": "subject"
+              },
+              {
+                "l1": "was",
+                "l2": "là",
+                "t": "linking verb (past tense)"
+              },
+              {
+                "l1": "a major disaster",
+                "l2": "một thảm họa lớn",
+                "t": "noun phrase (predicate)"
+              },
+              {
+                "l1": "for the entire region",
+                "l2": "đối với toàn khu vực",
+                "t": "prepositional phrase"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "consequence",
+      "m": [
+        {
+          "mn": "hậu quả, hệ quả",
+          "e": {
+            "r": "She failed the exam as a consequence of not studying.",
+            "t": "Cô ấy trượt kỳ thi như một hậu quả của việc không học bài.",
+            "rd": [
+              {
+                "l1": "She",
+                "l2": "Cô ấy",
+                "t": "subject"
+              },
+              {
+                "l1": "failed the exam",
+                "l2": "trượt kỳ thi",
+                "t": "verb phrase (main action)"
+              },
+              {
+                "l1": "as a consequence of",
+                "l2": "như một hậu quả của",
+                "t": "prepositional phrase (cause/reason)"
+              },
+              {
+                "l1": "not studying",
+                "l2": "việc không học bài",
+                "t": "gerund phrase (reason)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "catastrophic",
+      "m": [
+        {
+          "mn": "thảm khốc, thê thảm",
+          "e": {
+            "r": "The earthquake had catastrophic effects on the city.",
+            "t": "Trận động đất đã gây ra những ảnh hưởng thảm khốc lên thành phố.",
+            "rd": [
+              {
+                "l1": "The earthquake",
+                "l2": "Trận động đất",
+                "t": "subject"
+              },
+              {
+                "l1": "had",
+                "l2": "đã gây ra",
+                "t": "verb (past tense)"
+              },
+              {
+                "l1": "catastrophic effects",
+                "l2": "những ảnh hưởng thảm khốc",
+                "t": "noun phrase (object)"
+              },
+              {
+                "l1": "on the city",
+                "l2": "lên thành phố",
+                "t": "prepositional phrase (location)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "conduct",
+      "m": [
+        {
+          "mn": "tiến hành, thực hiện (thường dùng cho nghiên cứu, khảo sát, điều tra...)",
+          "e": {
+            "r": "The researchers conducted a survey on public health awareness.",
+            "t": "Các nhà nghiên cứu đã tiến hành một cuộc khảo sát về nhận thức sức khỏe cộng đồng.",
+            "rd": [
+              {
+                "l1": "The researchers",
+                "l2": "Các nhà nghiên cứu",
+                "t": "subject"
+              },
+              {
+                "l1": "conducted",
+                "l2": "đã tiến hành",
+                "t": "verb (past tense)"
+              },
+              {
+                "l1": "a survey",
+                "l2": "một cuộc khảo sát",
+                "t": "object (noun phrase)"
+              },
+              {
+                "l1": "on public health awareness",
+                "l2": "về nhận thức sức khỏe cộng đồng",
+                "t": "prepositional phrase"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
