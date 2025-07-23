@@ -29,7 +29,7 @@
       ]
     },
     {
-      "w": "S, O phải là Danh từ, C có thể là Danh từ",
+      "w": "S, O và C",
       "m": [
         {
           "mn": "Trong một câu S, O phải là Danh từ và C có thể là Danh từ",
@@ -67,10 +67,10 @@
       ]
     },
     {
-      "w": "Countable - Đếm được - Số ít BẮT BUỘC phải có định từ, số nhiều KHÔNG bắt buộc",
+      "w": "Countable - Đếm được",
       "m": [
         {
-          "mn": "Có hình dạng, đơn vị đo lường.",
+          "mn": "Số ít BẮT BUỘC phải có định từ, số nhiều KHÔNG bắt buộc. Là vật có hình dạng, đơn vị đo lường,...",
           "e": {
             "r": "a boy, a flower, dogs, tables",
             "t": "",
@@ -101,10 +101,10 @@
       ]
     },
     {
-      "w": "Uncountable - Không đếm được - KHÔNG bắt buộc phải có định từ",
+      "w": "Uncountable - Không đếm được",
       "m": [
         {
-          "mn": "Vật liệu, trừu tượng, tên riêng, danh động từ.",
+          "mn": "KHÔNG bắt buộc phải có định từ. Là vật liệu, trừu tượng, tên riêng, danh động từ,...",
           "e": {
             "r": "water, intelligence, Bill Gates, smoking",
             "t": "",
@@ -130,10 +130,10 @@
       ]
     },
     {
-      "w": "Có thể có 0, 1 hoặc nhiều tính từ trong cụm danh từ",
+      "w": "Tính từ",
       "m": [
         {
-          "mn": "Đối với few, a few, little, a little khi mất a sẽ là nghĩa tiêu cực.",
+          "mn": "Có thể có 0, 1 hoặc nhiều tính từ trong cụm danh từ. Đối với few, a few, little, a little khi mất a sẽ là nghĩa tiêu cực.",
           "e": {
             "r": "Few people attended the meeting, so it was canceled.",
             "t": "“Few” nhấn mạnh rằng có rất ít người tham dự, gần như không đủ – mang nghĩa tiêu cực.",
@@ -164,6 +164,19 @@
       ]
     },
     {
+      "w": "Định từ",
+      "m": [
+        {
+          "mn": "Danh từ không dùng định từ đa phần chỉ chung, nói chung, không riêng đối tượng nào.",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        }
+      ]
+    },
+    {
       "w": "Cụm danh từ trong cụm danh từ",
       "m": [
         {
@@ -177,10 +190,18 @@
       ]
     },
     {
-      "w": "Định từ - Danh từ không dùng định từ",
+      "w": "Mạo từ",
       "m": [
         {
-          "mn": "Đa phần chỉ chung, nói chung, không riêng đối tượng nào.",
+          "mn": "a, an: dùng cho danh từ đếm được số ít, các chuyện vật mới được nhắc đến lần đầu, chưa biết tới",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        },
+        {
+          "mn": "the: dùng cho cả có và không đếm được, những thứ đã biết tới",
           "e": {
             "r": "",
             "t": "",
@@ -190,23 +211,34 @@
       ]
     },
     {
-      "w": "a, an - đếm được số ít",
+      "w": "Lặp từ",
       "m": [
         {
-          "mn": "dùng cho các chuyện vật mới được nhắc đến lần đầu, chưa biết tới",
+          "mn": "Ban đầu là 1 cụm danh từ, 1 tập hợp ví dụ 100 students.",
           "e": {
             "r": "",
             "t": "",
             "rd": []
           }
-        }
-      ]
-    },
-    {
-      "w": "the - cả có và không đếm được",
-      "m": [
+        },
         {
-          "mn": "những thứ đã biết tới",
+          "mn": "Nhắc lại lần đầu: one student, some students - Giản lược: one, some",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        },
+        {
+          "mn": "Nhắc lại n lần tiếp: another student, other student - Giản lược: another, other, others",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        },
+        {
+          "mn": "Nhắc lại lần cuối: the other student, the other students - Giản lược: the other, the others",
           "e": {
             "r": "",
             "t": "",
