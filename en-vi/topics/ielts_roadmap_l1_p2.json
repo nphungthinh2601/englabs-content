@@ -1,0 +1,1075 @@
+{
+  "id": "ielts_roadmap_1_2",
+  "ti": "IELTS L1.2",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "chalk",
+      "m": [
+        {
+          "mn": "phấn (viết bảng)",
+          "e": {
+            "r": "She wrote her name on the board with a piece of chalk.",
+            "t": "Cô ấy viết tên mình lên bảng bằng một viên phấn.",
+            "rd": [
+              {
+                "l1": "She",
+                "l2": "cô ấy",
+                "t": "pn"
+              },
+              {
+                "l1": "wrote",
+                "l2": "viết",
+                "t": "v"
+              },
+              {
+                "l1": "her name",
+                "l2": "tên mình",
+                "t": "n"
+              },
+              {
+                "l1": "on the board",
+                "l2": "lên bảng",
+                "t": "prep"
+              },
+              {
+                "l1": "with a piece of chalk",
+                "l2": "bằng một viên phấn",
+                "t": "prep"
+              },
+              {
+                "l1": "chalk",
+                "l2": "phấn (viết bảng)",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "cowardice",
+      "m": [
+        {
+          "mn": "sự hèn nhát",
+          "e": {
+            "r": "His cowardice kept him from standing up to the bully.",
+            "t": "Sự hèn nhát của anh ta khiến anh không dám đứng lên chống lại kẻ bắt nạt.",
+            "rd": [
+              {
+                "l1": "cowardice",
+                "l2": "sự hèn nhát",
+                "t": "n"
+              },
+              {
+                "l1": "kept him from",
+                "l2": "khiến anh không dám",
+                "t": "phv"
+              },
+              {
+                "l1": "standing up to",
+                "l2": "đứng lên chống lại",
+                "t": "phv"
+              },
+              {
+                "l1": "the bully",
+                "l2": "kẻ bắt nạt",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "ugliness",
+      "m": [
+        {
+          "mn": "sự xấu xí",
+          "e": {
+            "r": "He couldn’t ignore the ugliness of the abandoned building.",
+            "t": "Anh ta không thể phớt lờ sự xấu xí của toà nhà bị bỏ hoang.",
+            "rd": [
+              {
+                "l1": "couldn't ignore",
+                "l2": "không thể phớt lờ",
+                "t": "v"
+              },
+              {
+                "l1": "ugliness",
+                "l2": "sự xấu xí",
+                "t": "n"
+              },
+              {
+                "l1": "abandoned building",
+                "l2": "toà nhà bị bỏ hoang",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "intelligence",
+      "m": [
+        {
+          "mn": "trí thông minh",
+          "e": {
+            "r": "Her intelligence impressed everyone at the meeting.",
+            "t": "Trí thông minh của cô ấy gây ấn tượng với mọi người trong cuộc họp.",
+            "rd": [
+              {
+                "l1": "Her intelligence",
+                "l2": "trí thông minh của cô ấy",
+                "t": "n"
+              },
+              {
+                "l1": "impressed",
+                "l2": "gây ấn tượng với",
+                "t": "v"
+              },
+              {
+                "l1": "everyone",
+                "l2": "mọi người",
+                "t": "n"
+              },
+              {
+                "l1": "at the meeting",
+                "l2": "trong cuộc họp",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "eternity",
+      "m": [
+        {
+          "mn": "sự vĩnh cữu",
+          "e": {
+            "r": "They promised to love each other for all eternity.",
+            "t": "Họ hứa sẽ yêu nhau mãi mãi.",
+            "rd": [
+              {
+                "l1": "promised",
+                "l2": "hứa",
+                "t": "v"
+              },
+              {
+                "l1": "to love each other",
+                "l2": "sẽ yêu nhau",
+                "t": "v"
+              },
+              {
+                "l1": "for all eternity",
+                "l2": "mãi mãi",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pasta",
+      "m": [
+        {
+          "mn": "mì ống; món mì Ý",
+          "e": {
+            "r": "How much pasta have we got?",
+            "t": "Chúng ta còn bao nhiêu mì ống?",
+            "rd": [
+              {
+                "l1": "How much",
+                "l2": "bao nhiêu",
+                "t": "q"
+              },
+              {
+                "l1": "pasta",
+                "l2": "mì ống",
+                "t": "n"
+              },
+              {
+                "l1": "have we got",
+                "l2": "chúng ta còn",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "trousers",
+      "m": [
+        {
+          "mn": "quần dài",
+          "e": {
+            "r": "Where are my new trousers?",
+            "t": "Chiếc quần mới của tôi ở đâu?",
+            "rd": [
+              {
+                "l1": "Where are",
+                "l2": "ở đâu",
+                "t": "q"
+              },
+              {
+                "l1": "my new trousers",
+                "l2": "chiếc quần mới của tôi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "afraid",
+      "m": [
+        {
+          "mn": "lo sợ; e rằng",
+          "e": {
+            "r": "I'm afraid we haven't got much time.",
+            "t": "Tôi e rằng chúng ta không còn nhiều thời gian.",
+            "rd": [
+              {
+                "l1": "I'm afraid",
+                "l2": "tôi e rằng",
+                "t": "phr"
+              },
+              {
+                "l1": "we haven't got",
+                "l2": "chúng ta không còn",
+                "t": "v"
+              },
+              {
+                "l1": "much time",
+                "l2": "nhiều thời gian",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "advice",
+      "m": [
+        {
+          "mn": "lời khuyên",
+          "e": {
+            "r": "Mary's advice was not very useful.",
+            "t": "Lời khuyên của Mary không hữu ích lắm.",
+            "rd": [
+              {
+                "l1": "Mary's advice",
+                "l2": "lời khuyên của Mary",
+                "t": "n"
+              },
+              {
+                "l1": "was not very useful",
+                "l2": "không hữu ích lắm",
+                "t": "adj"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "committee",
+      "m": [
+        {
+          "mn": "ủy ban",
+          "e": {
+            "r": "The committee will announce the results tomorrow.",
+            "t": "Ủy ban sẽ công bố kết quả vào ngày mai.",
+            "rd": [
+              {
+                "l1": "committee",
+                "l2": "ủy ban",
+                "t": "n"
+              },
+              {
+                "l1": "will announce",
+                "l2": "sẽ công bố",
+                "t": "v"
+              },
+              {
+                "l1": "the results",
+                "l2": "kết quả",
+                "t": "n"
+              },
+              {
+                "l1": "tomorrow",
+                "l2": "vào ngày mai",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "crew",
+      "m": [
+        {
+          "mn": "thủy thủ đoàn; đội, nhóm",
+          "e": {
+            "r": "The crew prepared the ship for departure.",
+            "t": "Thủy thủ đoàn đã chuẩn bị con tàu để khởi hành.",
+            "rd": [
+              {
+                "l1": "crew",
+                "l2": "thủy thủ đoàn",
+                "t": "n"
+              },
+              {
+                "l1": "prepared",
+                "l2": "đã chuẩn bị",
+                "t": "v"
+              },
+              {
+                "l1": "the ship",
+                "l2": "con tàu",
+                "t": "n"
+              },
+              {
+                "l1": "for departure",
+                "l2": "để khởi hành",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "faculty",
+      "m": [
+        {
+          "mn": "giảng viên (tập thể); khoa (trong trường đại học)",
+          "e": {
+            "r": "The university's faculty includes many distinguished researchers.",
+            "t": "Đội ngũ giảng viên của trường đại học bao gồm nhiều nhà nghiên cứu xuất sắc.",
+            "rd": [
+              {
+                "l1": "university's faculty",
+                "l2": "đội ngũ giảng viên của trường đại học",
+                "t": "n"
+              },
+              {
+                "l1": "includes",
+                "l2": "bao gồm",
+                "t": "v"
+              },
+              {
+                "l1": "many distinguished researchers",
+                "l2": "nhiều nhà nghiên cứu xuất sắc",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pole-vaulter",
+      "m": [
+        {
+          "mn": "vận động viên nhảy sào",
+          "e": {
+            "r": "The pole-vaulter broke the national record at the championship.",
+            "t": "Vận động viên nhảy sào đã phá kỷ lục quốc gia tại giải vô địch.",
+            "rd": [
+              {
+                "l1": "pole-vaulter",
+                "l2": "vận động viên nhảy sào",
+                "t": "n"
+              },
+              {
+                "l1": "broke",
+                "l2": "phá",
+                "t": "v"
+              },
+              {
+                "l1": "the national record",
+                "l2": "kỷ lục quốc gia",
+                "t": "n"
+              },
+              {
+                "l1": "at the championship",
+                "l2": "tại giải vô địch",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "trouser pocket",
+      "m": [
+        {
+          "mn": "túi quần",
+          "e": {
+            "r": "He kept the receipt in his trouser pocket.",
+            "t": "Anh ấy giữ hóa đơn trong túi quần của mình.",
+            "rd": [
+              {
+                "l1": "kept",
+                "l2": "giữ",
+                "t": "v"
+              },
+              {
+                "l1": "the receipt",
+                "l2": "hóa đơn",
+                "t": "n"
+              },
+              {
+                "l1": "in his trouser pocket",
+                "l2": "trong túi quần của mình",
+                "t": "prep"
+              },
+              {
+                "l1": "trouser pocket",
+                "l2": "túi quần",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "clothes hanger",
+      "m": [
+        {
+          "mn": "móc treo quần áo",
+          "e": {
+            "r": "She hung her coat on the clothes hanger in the closet.",
+            "t": "Cô ấy treo áo khoác lên móc treo quần áo trong tủ.",
+            "rd": [
+              {
+                "l1": "hung",
+                "l2": "treo",
+                "t": "v"
+              },
+              {
+                "l1": "her coat",
+                "l2": "áo khoác của cô ấy",
+                "t": "n"
+              },
+              {
+                "l1": "on the clothes hanger",
+                "l2": "lên móc treo quần áo",
+                "t": "prep"
+              },
+              {
+                "l1": "in the closet",
+                "l2": "trong tủ",
+                "t": "prep"
+              },
+              {
+                "l1": "clothes hanger",
+                "l2": "móc treo quần áo",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "diver",
+      "m": [
+        {
+          "mn": "thợ lặn",
+          "e": {
+            "r": "The diver explored the colorful coral reef beneath the waves.",
+            "t": "Thợ lặn khám phá rạn san hô đầy màu sắc dưới làn sóng.",
+            "rd": [
+              {
+                "l1": "diver",
+                "l2": "thợ lặn",
+                "t": "n"
+              },
+              {
+                "l1": "explored",
+                "l2": "khám phá",
+                "t": "v"
+              },
+              {
+                "l1": "colorful coral reef",
+                "l2": "rạn san hô đầy màu sắc",
+                "t": "n"
+              },
+              {
+                "l1": "beneath the waves",
+                "l2": "dưới làn sóng",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "breath",
+      "m": [
+        {
+          "mn": "hơi thở",
+          "e": {
+            "r": "He took a deep breath before starting his speech.",
+            "t": "Anh ấy hít một hơi thật sâu trước khi bắt đầu bài phát biểu.",
+            "rd": [
+              {
+                "l1": "took a deep breath",
+                "l2": "hít một hơi thật sâu",
+                "t": "phr"
+              },
+              {
+                "l1": "before starting",
+                "l2": "trước khi bắt đầu",
+                "t": "prep"
+              },
+              {
+                "l1": "his speech",
+                "l2": "bài phát biểu của anh ấy",
+                "t": "n"
+              },
+              {
+                "l1": "breath",
+                "l2": "hơi thở",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pollution",
+      "m": [
+        {
+          "mn": "sự ô nhiễm",
+          "e": {
+            "r": "Air pollution is a serious problem in many big cities.",
+            "t": "Ô nhiễm không khí là một vấn đề nghiêm trọng ở nhiều thành phố lớn.",
+            "rd": [
+              {
+                "l1": "air pollution",
+                "l2": "ô nhiễm không khí",
+                "t": "n"
+              },
+              {
+                "l1": "is",
+                "l2": "là",
+                "t": "v"
+              },
+              {
+                "l1": "a serious problem",
+                "l2": "một vấn đề nghiêm trọng",
+                "t": "n"
+              },
+              {
+                "l1": "in many big cities",
+                "l2": "ở nhiều thành phố lớn",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "retirement",
+      "m": [
+        {
+          "mn": "sự nghỉ hưu",
+          "e": {
+            "r": "He is looking forward to his retirement next year.",
+            "t": "Anh ấy đang mong chờ đến lúc nghỉ hưu vào năm sau.",
+            "rd": [
+              {
+                "l1": "is looking forward to",
+                "l2": "đang mong chờ",
+                "t": "phr"
+              },
+              {
+                "l1": "his retirement",
+                "l2": "lúc nghỉ hưu của anh ấy",
+                "t": "n"
+              },
+              {
+                "l1": "next year",
+                "l2": "vào năm sau",
+                "t": "adv"
+              },
+              {
+                "l1": "retirement",
+                "l2": "sự nghỉ hưu",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "expect to",
+      "m": [
+        {
+          "mn": "mong đợi / kì vọng sẽ (làm gì)",
+          "e": {
+            "r": "They expect to finish the project by Friday.",
+            "t": "Họ mong đợi sẽ hoàn thành dự án trước thứ Sáu.",
+            "rd": [
+              {
+                "l1": "expect to",
+                "l2": "mong đợi sẽ",
+                "t": "v"
+              },
+              {
+                "l1": "finish the project",
+                "l2": "hoàn thành dự án",
+                "t": "v"
+              },
+              {
+                "l1": "by Friday",
+                "l2": "trước thứ Sáu",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "drag on",
+      "m": [
+        {
+          "mn": "kéo dài lê thê (thường gây khó chịu hoặc nhàm chán)",
+          "e": {
+            "r": "The meeting dragged on for more than three hours.",
+            "t": "Cuộc họp kéo dài lê thê hơn ba tiếng đồng hồ.",
+            "rd": [
+              {
+                "l1": "meeting",
+                "l2": "cuộc họp",
+                "t": "n"
+              },
+              {
+                "l1": "dragged on",
+                "l2": "kéo dài lê thê",
+                "t": "phv"
+              },
+              {
+                "l1": "for more than three hours",
+                "l2": "hơn ba tiếng đồng hồ",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "According to",
+      "m": [
+        {
+          "mn": "theo như; dựa theo",
+          "e": {
+            "r": "According to the weather forecast, it will rain tomorrow.",
+            "t": "Theo dự báo thời tiết, ngày mai sẽ có mưa.",
+            "rd": [
+              {
+                "l1": "According to",
+                "l2": "theo như",
+                "t": "prep"
+              },
+              {
+                "l1": "the weather forecast",
+                "l2": "dự báo thời tiết",
+                "t": "n"
+              },
+              {
+                "l1": "it will rain",
+                "l2": "trời sẽ mưa",
+                "t": "v"
+              },
+              {
+                "l1": "tomorrow",
+                "l2": "ngày mai",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "definitely",
+      "m": [
+        {
+          "mn": "chắc chắn; nhất định",
+          "e": {
+            "r": "I definitely want to visit Japan someday.",
+            "t": "Tôi chắc chắn muốn đến thăm Nhật Bản một ngày nào đó.",
+            "rd": [
+              {
+                "l1": "definitely",
+                "l2": "chắc chắn",
+                "t": "adv"
+              },
+              {
+                "l1": "want to visit",
+                "l2": "muốn đến thăm",
+                "t": "v"
+              },
+              {
+                "l1": "Japan",
+                "l2": "Nhật Bản",
+                "t": "n"
+              },
+              {
+                "l1": "someday",
+                "l2": "một ngày nào đó",
+                "t": "adv"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "aviator",
+      "m": [
+        {
+          "mn": "phi công (thường dùng trong ngữ cảnh trang trọng hoặc lịch sử)",
+          "e": {
+            "r": "The aviator completed a solo flight across the Atlantic Ocean.",
+            "t": "Người phi công đã hoàn thành chuyến bay một mình qua Đại Tây Dương.",
+            "rd": [
+              {
+                "l1": "aviator",
+                "l2": "phi công",
+                "t": "n"
+              },
+              {
+                "l1": "completed",
+                "l2": "hoàn thành",
+                "t": "v"
+              },
+              {
+                "l1": "a solo flight",
+                "l2": "một chuyến bay một mình",
+                "t": "n"
+              },
+              {
+                "l1": "across the Atlantic Ocean",
+                "l2": "qua Đại Tây Dương",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "commonly",
+      "m": [
+        {
+          "mn": "thường xuyên; phổ biến",
+          "e": {
+            "r": "This plant is commonly found in tropical regions.",
+            "t": "Loài cây này thường được tìm thấy ở các vùng nhiệt đới.",
+            "rd": [
+              {
+                "l1": "commonly",
+                "l2": "thường xuyên",
+                "t": "adv"
+              },
+              {
+                "l1": "is found",
+                "l2": "được tìm thấy",
+                "t": "v"
+              },
+              {
+                "l1": "in tropical regions",
+                "l2": "ở các vùng nhiệt đới",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "hot springs",
+      "m": [
+        {
+          "mn": "suối nước nóng",
+          "e": {
+            "r": "Many tourists visit the hot springs to relax and enjoy the natural warmth.",
+            "t": "Nhiều du khách đến suối nước nóng để thư giãn và tận hưởng hơi ấm tự nhiên.",
+            "rd": [
+              {
+                "l1": "many tourists",
+                "l2": "nhiều du khách",
+                "t": "n"
+              },
+              {
+                "l1": "visit",
+                "l2": "đến thăm",
+                "t": "v"
+              },
+              {
+                "l1": "hot springs",
+                "l2": "suối nước nóng",
+                "t": "n"
+              },
+              {
+                "l1": "to relax and enjoy",
+                "l2": "để thư giãn và tận hưởng",
+                "t": "v"
+              },
+              {
+                "l1": "the natural warmth",
+                "l2": "hơi ấm tự nhiên",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "reduce",
+      "m": [
+        {
+          "mn": "giảm, cắt giảm",
+          "e": {
+            "r": "We need to reduce plastic waste to protect the environment.",
+            "t": "Chúng ta cần giảm rác thải nhựa để bảo vệ môi trường.",
+            "rd": [
+              {
+                "l1": "we",
+                "l2": "chúng ta",
+                "t": "pron"
+              },
+              {
+                "l1": "need to reduce",
+                "l2": "cần giảm",
+                "t": "v"
+              },
+              {
+                "l1": "plastic waste",
+                "l2": "rác thải nhựa",
+                "t": "n"
+              },
+              {
+                "l1": "to protect the environment",
+                "l2": "để bảo vệ môi trường",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "pandemic",
+      "m": [
+        {
+          "mn": "đại dịch",
+          "e": {
+            "r": "The pandemic changed the way people live and work around the world.",
+            "t": "Đại dịch đã thay đổi cách mọi người sống và làm việc trên toàn thế giới.",
+            "rd": [
+              {
+                "l1": "pandemic",
+                "l2": "đại dịch",
+                "t": "n"
+              },
+              {
+                "l1": "changed",
+                "l2": "đã thay đổi",
+                "t": "v"
+              },
+              {
+                "l1": "the way people live and work",
+                "l2": "cách mọi người sống và làm việc",
+                "t": "n"
+              },
+              {
+                "l1": "around the world",
+                "l2": "trên toàn thế giới",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "tourism",
+      "m": [
+        {
+          "mn": "ngành du lịch",
+          "e": {
+            "r": "Tourism plays an important role in the economy of this country.",
+            "t": "Ngành du lịch đóng vai trò quan trọng trong nền kinh tế của đất nước này.",
+            "rd": [
+              {
+                "l1": "tourism",
+                "l2": "ngành du lịch",
+                "t": "n"
+              },
+              {
+                "l1": "plays an important role",
+                "l2": "đóng vai trò quan trọng",
+                "t": "v"
+              },
+              {
+                "l1": "in the economy",
+                "l2": "trong nền kinh tế",
+                "t": "prep"
+              },
+              {
+                "l1": "of this country",
+                "l2": "của đất nước này",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "quarantine",
+      "m": [
+        {
+          "mn": "cách ly",
+          "e": {
+            "r": "He had to stay in quarantine for two weeks after returning from abroad.",
+            "t": "Anh ấy phải ở trong khu cách ly hai tuần sau khi trở về từ nước ngoài.",
+            "rd": [
+              {
+                "l1": "had to",
+                "l2": "phải",
+                "t": "v"
+              },
+              {
+                "l1": "stay in quarantine",
+                "l2": "ở trong khu cách ly",
+                "t": "v"
+              },
+              {
+                "l1": "for two weeks",
+                "l2": "trong hai tuần",
+                "t": "prep"
+              },
+              {
+                "l1": "after returning from abroad",
+                "l2": "sau khi trở về từ nước ngoài",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "authority",
+      "m": [
+        {
+          "mn": "chính quyền; cơ quan có thẩm quyền",
+          "e": {
+            "r": "The local authority decided to close the park for maintenance.",
+            "t": "Chính quyền địa phương đã quyết định đóng cửa công viên để bảo trì.",
+            "rd": [
+              {
+                "l1": "local authority",
+                "l2": "chính quyền địa phương",
+                "t": "n"
+              },
+              {
+                "l1": "decided to close",
+                "l2": "đã quyết định đóng cửa",
+                "t": "v"
+              },
+              {
+                "l1": "the park",
+                "l2": "công viên",
+                "t": "n"
+              },
+              {
+                "l1": "for maintenance",
+                "l2": "để bảo trì",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "trouble",
+      "m": [
+        {
+          "mn": "rắc rối; phiền phức",
+          "e": {
+            "r": "He got into trouble for skipping school.",
+            "t": "Cậu ấy gặp rắc rối vì trốn học.",
+            "rd": [
+              {
+                "l1": "got into trouble",
+                "l2": "gặp rắc rối",
+                "t": "v"
+              },
+              {
+                "l1": "for skipping school",
+                "l2": "vì trốn học",
+                "t": "prep"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "attempt",
+      "m": [
+        {
+          "mn": "nỗ lực; sự cố gắng",
+          "e": {
+            "r": "She made an attempt to climb the mountain.",
+            "t": "Cô ấy đã cố gắng leo lên ngọn núi.",
+            "rd": [
+              {
+                "l1": "made an attempt",
+                "l2": "đã cố gắng",
+                "t": "v"
+              },
+              {
+                "l1": "to climb",
+                "l2": "leo lên",
+                "t": "v"
+              },
+              {
+                "l1": "the mountain",
+                "l2": "ngọn núi",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

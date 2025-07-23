@@ -1,0 +1,219 @@
+{
+  "id": "ielts_roadmap_1_2",
+  "ti": "IELTS - Cụm danh từ",
+  "img": "",
+  "bimg": "",
+  "w": [
+    {
+      "w": "D - Adj - N",
+      "m": [
+        {
+          "mn": "Cấu trúc gồm Định từ - Tính từ - Danh từ",
+          "e": {
+            "r": "a beautiful flower",
+            "t": "(a / D) - (beautiful / Adj) - (flower / N)",
+            "rd": [
+              {
+                "l1": "beautiful",
+                "l2": "Adj - Đẹp",
+                "t": "adj"
+              },
+              {
+                "l1": "flower",
+                "l2": "N - bông hoa",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "S, O phải là Danh từ, C có thể là Danh từ",
+      "m": [
+        {
+          "mn": "Trong một câu S, O phải là Danh từ và C có thể là Danh từ",
+          "e": {
+            "r": "The dishwasher is not working well.",
+            "t": "(The / D) - (dishwasher / N)",
+            "rd": [
+              {
+                "l1": "dishwasher",
+                "l2": "N - Máy rửa chén",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Có thể bị giản lược",
+      "m": [
+        {
+          "mn": "Cụm danh từ có thể bị giản lược trong bối cảnh đã biết hoặc theo thói quen. Danh từ thường bị giản lược people, thing.",
+          "e": {
+            "r": "Some people prefer tea, while others prefer coffee.",
+            "t": "“others” = “other people”, nhưng do bối cảnh đã rõ nên ”people” không cần lặp lại.",
+            "rd": [
+              {
+                "l1": "prefer",
+                "l2": "ưa chuộng",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Countable - Đếm được - Số ít BẮT BUỘC phải có định từ, số nhiều KHÔNG bắt buộc",
+      "m": [
+        {
+          "mn": "Có hình dạng, đơn vị đo lường.",
+          "e": {
+            "r": "a boy, a flower, dogs, tables",
+            "t": "",
+            "rd": [
+              {
+                "l1": "boy",
+                "l2": "N - cậu bé",
+                "t": "n"
+              },
+              {
+                "l1": "flower",
+                "l2": "N - bông hoa",
+                "t": "n"
+              },
+              {
+                "l1": "dogs",
+                "l2": "N - những con chó",
+                "t": "n"
+              },
+              {
+                "l1": "tables",
+                "l2": "N - những cái bàn",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Uncountable - Không đếm được - KHÔNG bắt buộc phải có định từ",
+      "m": [
+        {
+          "mn": "Vật liệu, trừu tượng, tên riêng, danh động từ.",
+          "e": {
+            "r": "water, intelligence, Bill Gates, smoking",
+            "t": "",
+            "rd": [
+              {
+                "l1": "water",
+                "l2": "N - nước",
+                "t": "n"
+              },
+              {
+                "l1": "intelligence",
+                "l2": "N - trí thông minh",
+                "t": "n"
+              },
+              {
+                "l1": "smoking",
+                "l2": "N - việc hút thuốc",
+                "t": "n"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Có thể có 0, 1 hoặc nhiều tính từ trong cụm danh từ",
+      "m": [
+        {
+          "mn": "Đối với few, a few, little, a little khi mất a sẽ là nghĩa tiêu cực.",
+          "e": {
+            "r": "Few people attended the meeting, so it was canceled.",
+            "t": "“Few” nhấn mạnh rằng có rất ít người tham dự, gần như không đủ – mang nghĩa tiêu cực.",
+            "rd": [
+              {
+                "l1": "few",
+                "l2": "rất ít (gần như không)",
+                "t": "determiner"
+              },
+              {
+                "l1": "attended",
+                "l2": "đã tham dự",
+                "t": "v"
+              },
+              {
+                "l1": "meeting",
+                "l2": "cuộc họp",
+                "t": "n"
+              },
+              {
+                "l1": "canceled",
+                "l2": "đã bị hủy",
+                "t": "v"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "w": "Cụm danh từ trong cụm danh từ",
+      "m": [
+        {
+          "mn": "Sở hữu cách và cụm danh từ đi kèm với số lượng được xem như một tổng lớn.",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        }
+      ]
+    },
+    {
+      "w": "Định từ - Danh từ không dùng định từ",
+      "m": [
+        {
+          "mn": "Đa phần chỉ chung, nói chung, không riêng đối tượng nào.",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        }
+      ]
+    },
+    {
+      "w": "a, an - đếm được số ít",
+      "m": [
+        {
+          "mn": "dùng cho các chuyện vật mới được nhắc đến lần đầu, chưa biết tới",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        }
+      ]
+    },
+    {
+      "w": "the - cả có và không đếm được",
+      "m": [
+        {
+          "mn": "những thứ đã biết tới",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        }
+      ]
+    }
+  ]
+}
