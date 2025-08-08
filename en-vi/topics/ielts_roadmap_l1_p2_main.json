@@ -211,6 +211,85 @@
       ]
     },
     {
+      "w": "Đại từ",
+      "m": [
+        {
+          "mn": "Có giá trị tương đương danh từ - dùng thay cho danh từ ở chỗ cần danh từ",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        },
+        {
+          "mn": "Đứng ở vị trí khác nhau thì mang hình thái khác nhau: S, O, sở hữu, phản thân.",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        },
+        {
+          "mn": "I(S) - me(O) - my house - mine(Đại từ sở hữu) - myself(Đại từ phản thân)",
+          "e": {
+            "r": "",
+            "t": "",
+            "rd": []
+          }
+        },
+        [
+          {
+            "mn": "He(S) - him(O) - his house - his(Đại từ sở hữu) - himself(Đại từ phản thân)",
+            "e": {
+              "r": "",
+              "t": "",
+              "rd": []
+            }
+          },
+          {
+            "mn": "She(S) - her(O) - her house - hers(Đại từ sở hữu) - herself(Đại từ phản thân)",
+            "e": {
+              "r": "",
+              "t": "",
+              "rd": []
+            }
+          },
+          {
+            "mn": "It(S) - it(O) - its house - its(Đại từ sở hữu) - itself(Đại từ phản thân)",
+            "e": {
+              "r": "",
+              "t": "",
+              "rd": []
+            }
+          },
+          {
+            "mn": "You(S) - you(O) - your house - yours(Đại từ sở hữu) - yourself(Đại từ phản thân)",
+            "e": {
+              "r": "",
+              "t": "",
+              "rd": []
+            }
+          },
+          {
+            "mn": "We(S) - us(O) - our house - ours(Đại từ sở hữu) - ourselves(Đại từ phản thân)",
+            "e": {
+              "r": "",
+              "t": "",
+              "rd": []
+            }
+          },
+          {
+            "mn": "They(S) - them(O) - their house - theirs(Đại từ sở hữu) - themselves(Đại từ phản thân)",
+            "e": {
+              "r": "",
+              "t": "",
+              "rd": []
+            }
+          }
+        ]
+      ]
+    },
+    {
       "w": "Lặp từ",
       "m": [
         {
